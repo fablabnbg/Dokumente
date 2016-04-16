@@ -56,12 +56,12 @@
 5. Der Austritt eines Mitgliedes ist nur zum Quartalsende möglich. Er erfolgt durch schriftliche Erklärung gegenüber dem Vorsitzenden unter Einhaltung einer Frist von einem Monat.
 6. Wenn ein Mitglied gegen die Ziele und Interessen des Vereins schwer verstoßen hat oder trotz Mahnung mit dem Beitrag für 3 Monate im Verzug ist, so kann es durch den Vorstand mit sofortiger Wirkung ausgeschlossen werden.
 
-Dem Mitglied muss vor der Beschlussfassung Gelegenheit zur Rechtfertigung bzw.
-Stellungnahme gegeben werden.
+ Dem Mitglied muss vor der Beschlussfassung Gelegenheit zur Rechtfertigung bzw.
+ Stellungnahme gegeben werden.
 
-Gegen den Ausschließungsbeschluss kann innerhalb einer Frist von 3 Wochen nach
-Mitteilung des Ausschlusses Berufung eingelegt werden, über den die nächste
-Mitgliederversammlung entscheidet.
+ Gegen den Ausschließungsbeschluss kann innerhalb einer Frist von 3 Wochen nach
+ Mitteilung des Ausschlusses Berufung eingelegt werden, über den die nächste
+ Mitgliederversammlung entscheidet.
 
 § 5 Beiträge
 ============
@@ -185,4 +185,5 @@ Vorstand Michael Niqué
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+Vorstand Thomas Rechtenwald
 
