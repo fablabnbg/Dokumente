@@ -109,13 +109,13 @@ Organe des Vereins sind
 
     Scheidet ein Mitglied des Vorstands vor Ende seiner Amtsperiode aus, können die verbleibenden Mitglieder des Vorstands bis zu den turnusmäßigen Neuwahlen ein neues Mitglied des Vorstands bestellen. Auf diese Weise darf aber nur ein Mitglied des Vorstands bestellt werden. Sollte der Vorsitzende des Vorstandes ausscheiden, bestimmen die verbleibenden Mitglieder des Vorstands den neuen Vorsitzenden aus ihrer Mitte.
 
-3. Der Vorstand ist für alle Angelegenheiten des Vereins zuständig, soweit sie nicht durch die Satzung einem anderen Organ zugewiesen sind. Er erstellt den Jahres- und Kassenbericht. Er verantwortet die Erfüllung der satzungsgemäßen Ziele nach §2 Vereinszweck und entscheidet über Initiierung, Ausgestaltung und Durchführung von Projekten und Kooperationen. 
+3. Der Vorstand ist für alle Angelegenheiten des Vereins zuständig, soweit sie nicht durch die Satzung einem anderen Organ zugewiesen sind. Er erstellt den Jahres- und Kassenbericht. Er verantwortet die Erfüllung der satzungsgemäßen Ziele nach § 2 Vereinszweck und entscheidet über Initiierung, Ausgestaltung und Durchführung von Projekten und Kooperationen. 
 
     Mitglieder des Vorstands können für ihre Tätigkeit eine angemessene Vergütung erhalten. Für den Abschluss des Dienstvertrages ist der gesamte Vorstand zuständig. Er ist dazu von den Beschränkungen des § 181 BGB befreit.
 
     Der Vorstand kann für die Geschäfte der laufenden Verwaltung einen Geschäftsführer bestellen. Dieser ist berechtigt, an den Sitzungen des Vorstands mit beratender Stimme teilzunehmen.
 
-4. Vorstandssitzungen finden jährlich mindestens 4 mal statt. Die Einladung zu Vorstandssitzungen erfolgt durch den Vorsitzenden des Vorstands schriftlich unter Einhaltung einer Einladungsfrist von mindestens 14 Tagen per Email. Vorstandssitzungen sind beschlussfähig, wenn mehr als die Hälfte der Mitglieder des Vorstands anwesend sind.
+4. Vorstandssitzungen finden jährlich mindestens vier mal statt. Die Einladung zu Vorstandssitzungen erfolgt durch den Vorsitzenden des Vorstands schriftlich unter Einhaltung einer Einladungsfrist von mindestens 14 Tagen per Email. Vorstandssitzungen sind beschlussfähig, wenn mehr als die Hälfte der Mitglieder des Vorstands anwesend sind.
 
 5. Der Vorstand fasst seine Beschlüsse mit einfacher Mehrheit.
 
@@ -190,7 +190,7 @@ Organe des Vereins sind
 2. Alle Schriftformerfordernisse können durch digitale
 Dokumente und digitale Kommunikation erfüllt werden, falls dies nicht explizit
 ausgeschlossen ist, und wenn sie eine fortgeschrittene elektronische Signatur
-entsprechend §2 Nr. 2 SigG als Authentizitätsnachweis besitzen. Sie können in
+entsprechend § 2 Nr. 2 SigG als Authentizitätsnachweis besitzen. Sie können in
 diesem Fall papiergebundene Dokumente in vollem Umfang ersetzen. Die
 Signatur ersetzt hierbei die handschriftliche Unterschrift.
 
@@ -198,7 +198,7 @@ Signatur ersetzt hierbei die handschriftliche Unterschrift.
 -----------------------------------------------
 
 1. Für den Beschluss, den Verein aufzulösen, ist eine 3/4-Mehrheit der in der Mitgliederversammlung anwesenden Mitglieder erforderlich. Der Beschluss kann nur nach rechtzeitiger Ankündigung in der Einladung zur Mitgliederversammlung gefasst werden. 
-2. Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für Nachwuchsförderung mit vergleichbarem Zweck wie in §2 beschrieben. 
+2. Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für Nachwuchsförderung mit vergleichbarem Zweck wie in § 2 beschrieben. 
 
 
 Nürnberg, XX.XX.XXXX  
