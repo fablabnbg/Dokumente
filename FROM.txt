@@ -11,6 +11,7 @@ pandoc -f html -t markdown_github < ../../../Vorstand/Satzung.html > Satzung.md
 pandoc -f html -t markdown_github < ../../../Vorstand/Satzung.html > Satzung.md
 
 sudo apt-get install lmodern texlive-fonts-recommended texlive
+sudo apt-get install texlive-xetex etoolbox texlive-latex-extra-doc
 # apt-get texlive-xetex
 # pandoc --latex-engine=xelatex ???
 
