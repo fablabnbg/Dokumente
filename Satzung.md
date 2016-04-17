@@ -98,7 +98,7 @@ Organe des Vereins sind
 
 3. Der Vorstand ist für alle Angelegenheiten des Vereins zuständig, soweit sie nicht durch die Satzung einem anderen Organ zugewiesen sind. Er erstellt den Jahres- und Kassenbericht. Er verantwortet die Erfüllung der satzungsgemäßen Ziele nach §2 Vereinszweck und entscheidet über Initiierung, Ausgestaltung und Durchführung von Projekten und Kooperationen. 
 
- Ein Mitglied des Vorstands kann für seine Tätigkeit eine angemessene Vergütung erhalten. Für den Abschluss des Dienstvertrages ist der gesamte Vorstand zuständig. Er ist dazu von den Beschränkungen des § 181 BGB befreit.
+ Mitglieder des Vorstands können für ihre Tätigkeit eine angemessene Vergütung erhalten. Für den Abschluss des Dienstvertrages ist der gesamte Vorstand zuständig. Er ist dazu von den Beschränkungen des § 181 BGB befreit.
 
  Der Vorstand kann für die Geschäfte der laufenden Verwaltung einen Geschäftsführer bestellen. Dieser ist berechtigt, an den Sitzungen des Vorstands mit beratender Stimme teilzunehmen.
 
