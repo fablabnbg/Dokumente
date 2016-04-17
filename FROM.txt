@@ -1,2 +1,12 @@
 # https://github.com/jgm/pandoc/releases
+sudo apt-get install texlive-fonts-recommended texlive pandoc
 pandoc -f html -t markdown_github < ../../../Vorstand/Satzung.html > Satzung.md
+
+
+# Nested lists, min indent 4, otherwise numbering restarts.
++ # At github any indent works.
+
+# pandoc --latex-engine=xelatex ???
+ 
+pandoc -f markdown_github Satzung.md -t latex -o Satzung.pdf
+
