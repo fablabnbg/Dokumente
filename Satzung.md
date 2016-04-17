@@ -188,10 +188,12 @@ Organe des Vereins sind
 
 2. Satzungsänderungen, die von Aufsichts-, Gerichts- oder Finanzbehörden aus formalen Gründen verlangt werden, kann der Vorstand von sich aus vornehmen. Diese Satzungsänderungen müssen allen Vereinsmitgliedern alsbald schriftlich mitgeteilt werden. 
 
-§ 10 Beurkundung von Beschlüssen
+§ 10 Schriftform
 ================================
 
-Die in Vorstandssitzungen und in Mitgliederversammlungen erfassten Beschlüsse sind schriftlich niederzulegen und vom Vorstand zu unterzeichnen.
+1. Die in Vorstandssitzungen und in Mitgliederversammlungen erfassten Beschlüsse sind schriftlich niederzulegen und vom Vorstand zu unterzeichnen.
+
+2. Alle in diesem Dokument genannten Schriftformerfordernisse können durch digitale Dokumente und Kommunikation erfüllt werden, wenn sie eine fortgeschrittene elektronische Signatur entsprechend §2 Nr. 2 SigG als Authentizitätsnachweis besitzen. Sie können in diesem Fall papiergebundene Dokumente in vollem Umfang ersetzen, falls dies nicht explizit ausgeschlossen ist. Die Signatur ersetzt hierbei die handschriftliche Unterschrift.
 
 § 11 Auflösung des Vereins und Vermögensbindung
 ===============================================
