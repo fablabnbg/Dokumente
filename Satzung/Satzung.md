@@ -115,11 +115,9 @@ Organe des Vereins sind
 
     Der Vorstand kann für die Geschäfte der laufenden Verwaltung einen Geschäftsführer bestellen. Dieser ist berechtigt, an den Sitzungen des Vorstands mit beratender Stimme teilzunehmen.
 
-4. Vorstandssitzungen finden jährlich mindestens vier mal statt. Die Einladung zu Vorstandssitzungen erfolgt durch den Vorsitzenden des Vorstands schriftlich unter Einhaltung einer Einladungsfrist von mindestens 14 Tagen per Email. Vorstandssitzungen sind beschlussfähig, wenn mehr als die Hälfte der Mitglieder des Vorstands anwesend sind.
+4. Vorstandssitzungen finden mindestens vier mal jährlich statt. Die Einladung zu Vorstandssitzungen erfolgt durch den Vorsitzenden des Vorstands schriftlich unter Einhaltung einer angemessenen Frist. Eine Vorstandssitzung ist beschlussfähig, wenn mindestens eine vertretungsberechtigte Anzahl Mitglieder des Vorstands an der Sitzung teilnehmen. Die Zusammenkunft an einem gemeinsamen Ort ist nicht erforderlich.
 
 5. Der Vorstand fasst seine Beschlüsse mit einfacher Mehrheit.
-
-6. Beschlüsse des Vorstands können bei Eilbedürftigkeit auch schriftlich oder fernmündlich gefasst werden, wenn alle Mitglieder des Vorstands ihre Zustimmung zu diesem Verfahren schriftlich oder fernmündlich erklären. Schriftlich oder fernmündlich gefasste Vorstandsbeschlüsse sind schriftlich niederzulegen und von allen beschließenden Mitgliedern des Vorstands zu unterzeichnen. 
 
 § 8 Mitgliederversammlung
 -------------------------
