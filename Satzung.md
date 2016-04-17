@@ -154,7 +154,7 @@ Organe des Vereins sind
 
 8. Jedes Mitglied hat eine Stimme
 
-    Das Stimmrecht kann durch schriftliche Vollmacht an eine andere Person übertragen werden. Die Vollmacht ist ab dem Zeitpunkt wirksam, ab dem sie dem Vorstand vorgelegt.
+    Das Stimmrecht kann durch schriftliche Vollmacht an eine andere Person übertragen werden. Die Vollmacht ist ab dem Zeitpunkt wirksam, ab dem sie dem Vorstand vorgelegt wurde.
  
     Keine stimmberechtigte Person darf aber mehr als drei Stimmen auf sich vereinen.
 
