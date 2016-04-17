@@ -101,7 +101,7 @@ Organe des Vereins sind
 
 1. Der Vorstand besteht aus zwei bis fünf Mitgliedern. Über die Zahl der Mitglieder des Vorstands beschließt die Mitgliederversammlung bei der Wahl des Vorstands.
 
-    Er vertritt den Verein gerichtlich und außergerichtlich. Je zwei Mitglieder des Vorstands sind gemeinsam vertretungsberechtigt.
+    Er vertritt den Verein gerichtlich und außergerichtlich. Besteht der Vorstand aus zwei oder drei Mitgliedern, so sind je zwei Mitglieder des Vorstands gemeinsam vertretungsberechtigt. Bei vier oder fünf Mitgliedern sind je drei Mitglieder des Vorstands gemeinsam vertretungsberechtigt.
 
 2. Der Vorstand wird von der Mitgliederversammlung für die Dauer von zwei Jahren gewählt. Die Wiederwahl der Mitglieder des Vorstands ist möglich.
 
