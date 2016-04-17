@@ -94,9 +94,9 @@ Die Mitgliederversammlung kann eine Beitragsordnung verabschieden, die Art, Umfa
 
 Organe des Vereins sind
 
-a) der Vorstand
+1. der Vorstand
 
-b) die Mitgliederversammlung
+2. die Mitgliederversammlung
 
 
 § 7 Der Vorstand
