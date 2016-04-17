@@ -81,8 +81,6 @@ Satzung des Fab Lab Region Nürnberg e.V.
 
 Die Mitglieder zahlen Beiträge nach Maßgabe eines Beschlusses der Mitgliederversammlung. Zur Festlegung der Beitragshöhe und -fälligkeit ist eine einfache Mehrheit der in der Mitgliederversammlung anwesenden stimmberechtigten Personen erforderlich.
 
-Für Fördermitglieder setzt die Mitgliederversammlung auf Vorschlag des Vorstandes einen Mindestjahresbeitrag fest.
-
 Die Mitgliederversammlung kann eine Beitragsordnung verabschieden, die Art, Umfang und Fälligkeit der Beitragsleistungen regelt.
 
 
