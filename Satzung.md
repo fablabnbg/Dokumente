@@ -61,11 +61,11 @@
 3. Über den Antrag auf Aufnahme in den Verein entscheidet der Vorstand.
 4. Die Mitgliedschaft endet durch Austritt, Ausschluss oder Tod.
 5. Der Austritt eines Mitgliedes ist nur zum Quartalsende möglich. Er erfolgt durch schriftliche Erklärung gegenüber dem Vorsitzenden unter Einhaltung einer Frist von einem Monat.
-6. Wenn ein Mitglied gegen die Ziele und Interessen des Vereins schwer verstoßen hat oder trotz Mahnung mit dem Beitrag für 3 Monate im Verzug ist, so kann es durch den Vorstand mit sofortiger Wirkung ausgeschlossen werden.
+6. Wenn ein Mitglied gegen die Ziele und Interessen des Vereins schwer verstoßen hat oder trotz Mahnung mit dem Beitrag für drei Monate im Verzug ist, so kann es durch den Vorstand mit sofortiger Wirkung ausgeschlossen werden.
 
     Dem Mitglied muss vor der Beschlussfassung Gelegenheit zur Rechtfertigung bzw. Stellungnahme gegeben werden.
 
-    Gegen den Ausschließungsbeschluss kann innerhalb einer Frist von 3 Wochen nach Mitteilung des Ausschlusses Berufung eingelegt werden, über den die nächste Mitgliederversammlung entscheidet.
+    Gegen den Ausschließungsbeschluss kann innerhalb einer Frist von drei Wochen nach Mitteilung des Ausschlusses Berufung eingelegt werden, über den die nächste Mitgliederversammlung entscheidet.
 
 § 5 Beiträge
 ============
@@ -93,7 +93,7 @@ Organe des Vereins sind
 
     Er vertritt den Verein gerichtlich und außergerichtlich. Je zwei Mitglieder des Vorstands sind gemeinsam vertretungsberechtigt.
 
-2. Der Vorstand wird von der Mitgliederversammlung für die Dauer von 2 Jahren gewählt. Die Wiederwahl der Mitglieder des Vorstands ist möglich.
+2. Der Vorstand wird von der Mitgliederversammlung für die Dauer von zwei Jahren gewählt. Die Wiederwahl der Mitglieder des Vorstands ist möglich.
 
     Der Vorsitzende des Vorstands wird von der Mitgliederversammlung in einem besonderen Wahlgang bestimmt.
 
@@ -109,7 +109,7 @@ Organe des Vereins sind
 
 4. Vorstandssitzungen finden jährlich mindestens 4 mal statt. Die Einladung zu Vorstandssitzungen erfolgt durch den Vorsitzenden des Vorstands schriftlich unter Einhaltung einer Einladungsfrist von mindestens 14 Tagen per Email. Vorstandssitzungen sind beschlussfähig, wenn mehr als die Hälfte der Mitglieder des Vorstands anwesend sind.
 
-5. Der Vorstand fasst seine Beschlüsse mit einfacher Mehrheit. 
+5. Der Vorstand fasst seine Beschlüsse mit einfacher Mehrheit.
 
 6. Beschlüsse des Vorstands können bei Eilbedürftigkeit auch schriftlich oder fernmündlich gefasst werden, wenn alle Mitglieder des Vorstands ihre Zustimmung zu diesem Verfahren schriftlich oder fernmündlich erklären. Schriftlich oder fernmündlich gefasste Vorstandsbeschlüsse sind schriftlich niederzulegen und von allen beschließenden Mitgliedern des Vorstands zu unterzeichnen. 
 
