@@ -1,5 +1,13 @@
 # https://github.com/jgm/pandoc/releases
+sudo apt-get install texlive-fonts-recommended texlive pandoc
+pandoc -f html -t markdown_github < ../../../Vorstand/Satzung.html > Satzung.md
 
+
+# Nested lists, min indent 4, otherwise numbering restarts.
+# At github any indent works.
+
+# pandoc --latex-engine=xelatex ???
+ 
 pandoc -f html -t markdown_github < ../../../Vorstand/Satzung.html > Satzung.md
 
 sudo apt-get install lmodern texlive-fonts-recommended texlive
