@@ -70,7 +70,7 @@
 § 5 Beiträge
 ============
 
-Die Mitglieder zahlen Beiträge nach Maßgabe eines Beschlusses der Mitgliederversammlung. Zur Festlegung der Beitragshöhe und -fälligkeit ist eine einfache Mehrheit der in der Mitgliederversammlung anwesenden stimmberechtigten Vereinsmitglieder erforderlich.
+Die Mitglieder zahlen Beiträge nach Maßgabe eines Beschlusses der Mitgliederversammlung. Zur Festlegung der Beitragshöhe und -fälligkeit ist eine einfache Mehrheit der in der Mitgliederversammlung anwesenden stimmberechtigten Personen erforderlich.
 
 Für Fördermitglieder setzt die Mitgliederversammlung auf Vorschlag des Vorstandes einen Mindestjahresbeitrag fest.
 
@@ -154,11 +154,9 @@ Organe des Vereins sind
 
 8. Jedes Mitglied hat eine Stimme
 
-    Das Stimmrecht kann durch schriftliche Vollmacht auf ein anderes Mitglied übertragen werden. Die Vollmacht ist nur wirksam, wenn sie dem Vorstand vor Beginn der Mitgliederversammlung vorgelegt wurde. Kein Mitglied darf aber mehr als drei Stimmen auf sich vereinen.
-
-    Die eigene und die übertragenen Stimmen können nur einheitlich abgegeben werden.
-
-    Die Stimmrechtsübertragung kann nur für die jeweilige Mitgliederversammlung insgesamt erteilt werden.
+    Das Stimmrecht kann durch schriftliche Vollmacht an eine andere Person übertragen werden. Die Vollmacht ist ab dem Zeitpunkt wirksam, ab dem sie dem Vorstand vorgelegt.
+ 
+    Keine stimmberechtigte Person darf aber mehr als drei Stimmen auf sich vereinen.
 
 § 9 Satzungsänderung
 ====================
