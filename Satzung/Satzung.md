@@ -187,11 +187,11 @@ Organe des Vereins sind
 
 1. Die in Vorstandssitzungen und in Mitgliederversammlungen erfassten Beschlüsse sind schriftlich niederzulegen und vom Vorstand zu unterzeichnen.
 
-2. Alle Schriftformerfordernisse im Innenverhältnis können durch digitale
+2. Alle Schriftformerfordernisse können durch digitale
 Dokumente und digitale Kommunikation erfüllt werden, falls dies nicht explizit
 ausgeschlossen ist, und wenn sie eine fortgeschrittene elektronische Signatur
 entsprechend §2 Nr. 2 SigG als Authentizitätsnachweis besitzen. Sie können in
-diesem Fall papiergebundene Dokumente in vollem Umfang ersetzen.  ist. Die
+diesem Fall papiergebundene Dokumente in vollem Umfang ersetzen. Die
 Signatur ersetzt hierbei die handschriftliche Unterschrift.
 
 § 11 Auflösung des Vereins und Vermögensbindung
