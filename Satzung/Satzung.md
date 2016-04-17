@@ -166,7 +166,9 @@ Organe des Vereins sind
 
 7. Mitgliederversammlungen sind nicht öffentlich.
 
-    Nichtmitglieder können auf Antrag durch Beschluss der Mitgliederversammlung zugelassen werden.
+    Beschäftigte des Vereins sind als Gäste zugelassen, sofern zum Zeitpunkt der Mitgliederversammlung ein gültiger Arbeitsvertrag besteht und die Mitgliederversammlung keinen anderslautenden Beschluss gefasst hat.
+
+    Andere Nichtmitglieder können auf Antrag durch Beschluss der Mitgliederversammlung zugelassen werden.
 
 8. Das Stimmrecht kann durch schriftliche Vollmacht an eine andere unbeschränkt geschäftsfähige Person übertragen werden. Die Vollmacht ist ab dem Zeitpunkt wirksam, ab dem sie dem Vorstand vorgelegt wurde. 
     Keine stimmberechtigte Person darf aber mehr als drei Stimmen auf sich vereinen.
