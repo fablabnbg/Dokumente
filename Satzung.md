@@ -4,8 +4,11 @@
 =========================================
 
 1. Der Verein trägt den Namen Fab Lab Region Nürnberg e.V. 
+
 2. Er hat den Sitz in Nürnberg. 
+
 3. Er soll in das Vereinsregister eingetragen werden. 
+
 4. Geschäftsjahr ist das Kalenderjahr. 
 
 
@@ -13,7 +16,9 @@
 ================
 
 1. Der Verein verfolgt ausschließlich und unmittelbar Gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung (§§ 51ff) in der jeweils gültigen Fassung.
+
 2. Der Zweck des Fab Lab Region Nürnberg e.V. ist die Schaffung einer offenen Plattform für Lernen und Kreativität im Bereich Technik in der Region Nürnberg mit niederschwelligen Angeboten zur Förderung von Neugier, komplexem Denken und Handeln, Teamfähigkeit und interkultureller Kompetenz an den Schnittstellen von Technologie, Kunst, Design und Entrepreneurship.
+
 3. Der Satzungszweck wird insbesondere verwirklicht durch Aktionen und Projekte, die
 
     (a) den Nachwuchs im Bereich von Mathematik, Informatik, Naturwissenschaften und Technik (MINT) fördern, 
@@ -31,14 +36,18 @@
     (g) zur regionalen, überregionalen als auch internationalen Vernetzung der Beteiligten mit einer interdisziplinären Community beitragen. 
 
 4. Ausgangspunkt und Zentrum der Aktivitäten des Vereins ist die Europäische Metropolregion Nürnberg.
+
 5. Als Teil des internationalen Fab Lab Netzwerks verpflichtet sich der Verein Fab Lab Region Nürnberg e.V. beim Aufbau und der Förderung von Fabrication Laboratories (Fab Labs) der Fab Charter in der jeweils gültigen Fassung (Quelle: http://fab.cba.mit.edu/about/charter/)
 
 § 3 Selbstlosigkeit
 ===================
 
 1. Der Verein ist selbstlos tätig, er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.  
+
 2. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder des Vereins dürfen in ihrer Eigenschaft als Mitglieder keine Zuwendungen aus Mitteln des Vereins erhalten.   
+
 3. Die Mitglieder dürfen bei ihrem Ausscheiden oder bei  Auflösung oder Aufhebung des Vereins keine Anteile des Vereinsvermögens erhalten.  
+
 4. Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden. 
 
 § 4 Mitgliedschaft
@@ -59,8 +68,11 @@
     Lebensjahres zu ordentlichen Mitgliedern.
 
 3. Über den Antrag auf Aufnahme in den Verein entscheidet der Vorstand.
+
 4. Die Mitgliedschaft endet durch Austritt, Ausschluss oder Tod.
+
 5. Der Austritt eines Mitgliedes ist nur zum Quartalsende möglich. Er erfolgt durch schriftliche Erklärung gegenüber dem Vorsitzenden unter Einhaltung einer Frist von einem Monat.
+
 6. Wenn ein Mitglied gegen die Ziele und Interessen des Vereins schwer verstoßen hat oder trotz Mahnung mit dem Beitrag für drei Monate im Verzug ist, so kann es durch den Vorstand mit sofortiger Wirkung ausgeschlossen werden.
 
     Dem Mitglied muss vor der Beschlussfassung Gelegenheit zur Rechtfertigung bzw. Stellungnahme gegeben werden.
@@ -82,9 +94,10 @@ Die Mitgliederversammlung kann eine Beitragsordnung verabschieden, die Art, Umfa
 
 Organe des Vereins sind
 
-    a) der Vorstand
+a) der Vorstand
 
-    b) die Mitgliederversammlung
+b) die Mitgliederversammlung
+
 
 § 7 Der Vorstand
 ================
@@ -187,18 +200,22 @@ Die in Vorstandssitzungen und in Mitgliederversammlungen erfassten Beschlüsse s
 2. Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für Nachwuchsförderung mit vergleichbarem Zweck wie in §2 beschrieben. 
 
 
-Nürnberg, XX.XX.XXXX
+Nürnberg, XX.XX.XXXX  
 
+
+  
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Vorsitzender des Vorstands: Jürgen Weigert
 
+  
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Mitglied des Vorstands: Michael Mosburger
 
+  
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
