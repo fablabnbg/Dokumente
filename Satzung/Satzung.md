@@ -1,7 +1,8 @@
-**Satzung des Fab Lab Region Nürnberg e.V.**
+Satzung des Fab Lab Region Nürnberg e.V.
+========================================
 
 § 1 Name, Sitz, Eintragung, Geschäftsjahr
-=========================================
+-----------------------------------------
 
 1. Der Verein trägt den Namen Fab Lab Region Nürnberg e.V. 
 
@@ -13,7 +14,7 @@
 
 
 § 2 Vereinszweck
-================
+----------------
 
 1. Der Verein verfolgt ausschließlich und unmittelbar Gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung (§§ 51ff) in der jeweils gültigen Fassung.
 
@@ -40,7 +41,7 @@
 5. Als Teil des internationalen Fab Lab Netzwerks verpflichtet sich der Verein Fab Lab Region Nürnberg e.V. beim Aufbau und der Förderung von Fabrication Laboratories (Fab Labs) der Fab Charter in der jeweils gültigen Fassung (Quelle: http://fab.cba.mit.edu/about/charter/)
 
 § 3 Selbstlosigkeit
-===================
+-------------------
 
 1. Der Verein ist selbstlos tätig, er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.  
 
@@ -51,7 +52,7 @@
 4. Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden. 
 
 § 4 Mitgliedschaft
-==================
+------------------
 
 1. Mitglieder des Vereins können alle natürlichen Person ab dem 7. Lebensjahr (und juristische Personen) werden, die seine Ziele unterstützen.
 
@@ -80,7 +81,7 @@
     Gegen den Ausschließungsbeschluss kann innerhalb einer Frist von drei Wochen nach Mitteilung des Ausschlusses Berufung eingelegt werden, über den die nächste Mitgliederversammlung entscheidet.
 
 § 5 Beiträge
-============
+------------
 
 Die Mitglieder zahlen Beiträge nach Maßgabe eines Beschlusses der Mitgliederversammlung. Zur Festlegung der Beitragshöhe und -fälligkeit ist eine einfache Mehrheit der in der Mitgliederversammlung anwesenden stimmberechtigten Personen erforderlich.
 
@@ -90,7 +91,7 @@ Die Mitgliederversammlung kann eine Beitragsordnung verabschieden, die Art, Umfa
 
 
 § 6 Organe des Vereins
-======================
+----------------------
 
 Organe des Vereins sind
 
@@ -100,7 +101,7 @@ Organe des Vereins sind
 
 
 § 7 Der Vorstand
-================
+----------------
 
 1. Der Vorstand besteht aus zwei bis fünf Mitgliedern. Über die Zahl der Mitglieder des Vorstands beschließt die Mitgliederversammlung bei der Wahl des Vorstands.
 
@@ -127,7 +128,7 @@ Organe des Vereins sind
 6. Beschlüsse des Vorstands können bei Eilbedürftigkeit auch schriftlich oder fernmündlich gefasst werden, wenn alle Mitglieder des Vorstands ihre Zustimmung zu diesem Verfahren schriftlich oder fernmündlich erklären. Schriftlich oder fernmündlich gefasste Vorstandsbeschlüsse sind schriftlich niederzulegen und von allen beschließenden Mitgliedern des Vorstands zu unterzeichnen. 
 
 § 8 Mitgliederversammlung
-=========================
+-------------------------
 
 1. Die Mitgliederversammlung ist einmal jährlich einzuberufen. 
 
@@ -180,7 +181,7 @@ Organe des Vereins sind
     Keine stimmberechtigte Person darf aber mehr als drei Stimmen auf sich vereinen.
 
 § 9 Satzungsänderung
-====================
+--------------------
 
 1. Für Satzungsänderungen ist eine 3/4-Mehrheit der erschienenen Vereinsmitglieder erforderlich. Über Satzungsänderungen kann in der Mitgliederversammlung nur abgestimmt werden, wenn auf diesen Tagesordnungspunkt bereits in der Einladung zur 
 
@@ -189,14 +190,19 @@ Organe des Vereins sind
 2. Satzungsänderungen, die von Aufsichts-, Gerichts- oder Finanzbehörden aus formalen Gründen verlangt werden, kann der Vorstand von sich aus vornehmen. Diese Satzungsänderungen müssen allen Vereinsmitgliedern alsbald schriftlich mitgeteilt werden. 
 
 § 10 Schriftform
-================================
+----------------
 
 1. Die in Vorstandssitzungen und in Mitgliederversammlungen erfassten Beschlüsse sind schriftlich niederzulegen und vom Vorstand zu unterzeichnen.
 
-2. Alle in diesem Dokument genannten Schriftformerfordernisse können durch digitale Dokumente und Kommunikation erfüllt werden, wenn sie eine fortgeschrittene elektronische Signatur entsprechend §2 Nr. 2 SigG als Authentizitätsnachweis besitzen. Sie können in diesem Fall papiergebundene Dokumente in vollem Umfang ersetzen, falls dies nicht explizit ausgeschlossen ist. Die Signatur ersetzt hierbei die handschriftliche Unterschrift.
+2. Alle Schriftformerfordernisse im Innenverhältnis können durch digitale
+Dokumente und digitale Kommunikation erfüllt werden, falls dies nicht explizit
+ausgeschlossen ist, und wenn sie eine fortgeschrittene elektronische Signatur
+entsprechend §2 Nr. 2 SigG als Authentizitätsnachweis besitzen. Sie können in
+diesem Fall papiergebundene Dokumente in vollem Umfang ersetzen.  ist. Die
+Signatur ersetzt hierbei die handschriftliche Unterschrift.
 
 § 11 Auflösung des Vereins und Vermögensbindung
-===============================================
+-----------------------------------------------
 
 1. Für den Beschluss, den Verein aufzulösen, ist eine 3/4-Mehrheit der in der Mitgliederversammlung anwesenden Mitglieder erforderlich. Der Beschluss kann nur nach rechtzeitiger Ankündigung in der Einladung zur Mitgliederversammlung gefasst werden. 
 2. Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für Nachwuchsförderung mit vergleichbarem Zweck wie in §2 beschrieben. 
