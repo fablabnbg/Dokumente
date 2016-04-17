@@ -60,13 +60,7 @@ Satzung des Fab Lab Region Nürnberg e.V.
 
     * ordentliche Mitglieder  
 
-    * jugendliche Mitglieder (bis zur Vollendung des 18. Lebensjahrs)  
-
     * Fördermitglieder
-
-    Nur ordentliche Mitglieder haben ein Stimmrecht und können in Vereinsämter
-    gewählt werden. Jugendliche Mitglieder werden mit Vollendung des 18.
-    Lebensjahres zu ordentlichen Mitgliedern.
 
 3. Über den Antrag auf Aufnahme in den Verein entscheidet der Vorstand.
 
@@ -79,6 +73,8 @@ Satzung des Fab Lab Region Nürnberg e.V.
     Dem Mitglied muss vor der Beschlussfassung Gelegenheit zur Rechtfertigung bzw. Stellungnahme gegeben werden.
 
     Gegen den Ausschließungsbeschluss kann innerhalb einer Frist von drei Wochen nach Mitteilung des Ausschlusses Berufung eingelegt werden, über den die nächste Mitgliederversammlung entscheidet.
+
+7. Jedes ordentliche Mitglied, welches das 18. Lebensjahr vollendet hat, hat eine Stimme und kann in Vereinsämter gewählt werden.
 
 § 5 Beiträge
 ------------
@@ -174,10 +170,7 @@ Organe des Vereins sind
 
     Nichtmitglieder können auf Antrag durch Beschluss der Mitgliederversammlung zugelassen werden.
 
-8. Jedes Mitglied hat eine Stimme
-
-    Das Stimmrecht kann durch schriftliche Vollmacht an eine andere Person übertragen werden. Die Vollmacht ist ab dem Zeitpunkt wirksam, ab dem sie dem Vorstand vorgelegt wurde.
- 
+8. Das Stimmrecht kann durch schriftliche Vollmacht an eine andere unbeschränkt geschäftsfähige Person übertragen werden. Die Vollmacht ist ab dem Zeitpunkt wirksam, ab dem sie dem Vorstand vorgelegt wurde. 
     Keine stimmberechtigte Person darf aber mehr als drei Stimmen auf sich vereinen.
 
 § 9 Satzungsänderung
