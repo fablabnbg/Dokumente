@@ -54,7 +54,7 @@ Satzung des Fab Lab Region Nürnberg e.V.
 § 4 Mitgliedschaft
 ------------------
 
-1. Mitglieder des Vereins können alle natürlichen Person ab dem 7. Lebensjahr (und juristische Personen) werden, die seine Ziele unterstützen.
+1. Mitglieder des Vereins können alle natürlichen und juristischen Person werden, die seine Ziele unterstützen.
 
 2. Der Verein hat folgende Mitglieder:
 
