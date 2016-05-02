@@ -1,4 +1,6 @@
 # One Makefile to rule them all
+#
+# sudo apt-get install pandoc texlive-xetex
 
 all: satzung
 
@@ -10,7 +12,7 @@ Satzung.pdf: Satzung/Satzung.md
 	pandoc --standalone -f markdown_github Satzung/Satzung.md -t latex -V mainfont=sans -o Satzung.pdf
 
 Satzung.html: Satzung/Satzung.md
-	pandoc --standalone -f markdown_github Satzung/Satzung.md -t html -Vsansfont=true -o Satzung.html
+	pandoc --standalone -f markdown_github Satzung/Satzung.md -t html -V mainfont=sans -o Satzung.html
 
 clean:
 	rm Satzung.pdf
