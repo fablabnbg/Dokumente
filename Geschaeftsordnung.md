@@ -1,14 +1,23 @@
 Geschäftsordnung des Fab Lab Nürnberg e. V.
 
 §1 Geltungsbereich
+------------------
+
 	Die Geschäftsordnung gilt in Ergänzung der Satzung des Fab Lab Nürnberg e. V..
 
 §2  Tagesordnungspunkte der Mitgliederversammlung
+-------------------------------------------------
+
 	1. Autorisierung am Eingang durch Mitgliedsausweis und/oder Lichtbildausweis/Führerschein
+
 		1.1. Abstreichen auf der Liste
+		
 		1.2. Prüfung möglicher Vollmachten
+		
 		1.3. Ausgabe von Stimmkarte(n)
+		
 	2. Begrüßung Vorstand
+	
 	3. Feststellung der Beschlussfähigkeit
 	4. Beschlussfassung über die Zulassung von Gästen
 	5. Wahl des Versammlungsleiters; Akklamation, relative Mehrheit
