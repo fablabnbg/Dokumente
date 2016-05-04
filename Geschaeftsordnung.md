@@ -60,7 +60,7 @@ Die Geschäftsordnung gilt in Ergänzung der Satzung des Fab Lab Nürnberg e. V.
 	
 	12.3. Danksagung und Grußwort des neuen Vorstandes
 	
-13. <Platzhalter für Tagesordnungspunkte, die der Einladung zur MV beiliegen>
+13. - Platzhalter für Tagesordnungspunkte, die der Einladung zur MV beiliegen -
 
 14. Verlesung der Niederschrift
 
