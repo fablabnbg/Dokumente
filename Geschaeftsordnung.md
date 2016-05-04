@@ -1,4 +1,4 @@
-Geschäftsordnung des Fab Lab Nürnberg e. V.
+# Geschäftsordnung des Fab Lab Nürnberg e. V.
 
 §1 Geltungsbereich
 ------------------
@@ -46,17 +46,17 @@ Die Geschäftsordnung gilt in Ergänzung der Satzung des Fab Lab Nürnberg e. V.
 	
 	12.2.2. Keine Kumulation; Anzahl an Stimmen abhängig von 12.1
 	
-		12.2.2.1. Ein Wahldurchgang; Kandidaten mit absoluter Mehrheit (der stimmberechtigten Personen) gelangen in den zweiten Wahldurchgang
+	   12.2.2.1. Ein Wahldurchgang; Kandidaten mit absoluter Mehrheit (der stimmberechtigten Personen) gelangen in den zweiten Wahldurchgang
 	
-		12.2.2.2. Sollten mehr als in 12.1 bestimmte Anzahl erreicht wird: Zweiter Wahldurchgang; relative Mehrheit ausreichend
+	   12.2.2.2. Sollten mehr als in 12.1 bestimmte Anzahl erreicht wird: Zweiter Wahldurchgang; relative Mehrheit ausreichend
 	
-		12.2.2.3. ggf. Stichwahl zwischen Kandidaten mit gleicher Stimmenzahl (falls relevant)
+	   12.2.2.3. ggf. Stichwahl zwischen Kandidaten mit gleicher Stimmenzahl (falls relevant)
 	
 	12.2.3. Wahl des Vorsitzenden
 	
-		12.2.3.1. Namentliche Vorschläge durch stimmberechtigte Personen, Kandidaten aus dem Kreis der gewählten Vorstände
+	   12.2.3.1. Namentliche Vorschläge durch stimmberechtigte Personen, Kandidaten aus dem Kreis der gewählten Vorstände
 	
-		12.2.3.2. Ein Wahldurchgang; relative Mehrheit; Bei Gleichstand Stichwahl
+	   12.2.3.2. Ein Wahldurchgang; relative Mehrheit; Bei Gleichstand Stichwahl
 	
 	12.3. Danksagung und Grußwort des neuen Vorstandes
 	
