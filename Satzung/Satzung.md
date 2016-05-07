@@ -22,19 +22,19 @@ Satzung des Fab Lab Region Nürnberg e.V.
 
 3. Der Satzungszweck wird insbesondere verwirklicht durch Aktionen und Projekte, die
 
-    (a) den Nachwuchs im Bereich von Mathematik, Informatik, Naturwissenschaften und Technik (MINT) fördern, 
+    a) den Nachwuchs im Bereich von Mathematik, Informatik, Naturwissenschaften und Technik (MINT) fördern, 
     
-    (b) bei der Gestaltung interdisziplinärer Ideen und Innovationen über die Grenzen von Technik, Kunst, Design und Kommunikation hinweg unterstützen,
+    b) bei der Gestaltung interdisziplinärer Ideen und Innovationen über die Grenzen von Technik, Kunst, Design und Kommunikation hinweg unterstützen,
     
-    (c) die praktische und kreative Intelligenz Einzelner in Ergänzung zum analytischen Fokus der schulischen bzw. universitären Ausbildung stärken und so die Entdeckung und Entwicklung des eigenen kreativen Potentials fördern,
+    c) die praktische und kreative Intelligenz Einzelner in Ergänzung zum analytischen Fokus der schulischen bzw. universitären Ausbildung stärken und so die Entdeckung und Entwicklung des eigenen kreativen Potentials fördern,
     
-    (d) den Zugang zu (Schlüssel)Technologie ermöglichen bzw. erleichtern und zum praktischen und kreativen Umgang mit Technologie anregen,
+    d) den Zugang zu (Schlüssel)Technologie ermöglichen bzw. erleichtern und zum praktischen und kreativen Umgang mit Technologie anregen,
     
-    (e) das Lernen durch eigene Erfahrungen, selbstmotiviertes Lernen und das Lernen von Anderen/Peers unterstützen,
+    e) das Lernen durch eigene Erfahrungen, selbstmotiviertes Lernen und das Lernen von Anderen/Peers unterstützen,
     
-    (f) durch offenen Austausch von Erfahrung und Wissen zur nachhaltigen Entwicklung einer offenen Wissensgesellschaft beitragen und/oder 
+    f) durch offenen Austausch von Erfahrung und Wissen zur nachhaltigen Entwicklung einer offenen Wissensgesellschaft beitragen und/oder 
     
-    (g) zur regionalen, überregionalen als auch internationalen Vernetzung der Beteiligten mit einer interdisziplinären Community beitragen. 
+    g) zur regionalen, überregionalen als auch internationalen Vernetzung der Beteiligten mit einer interdisziplinären Community beitragen. 
 
 4. Ausgangspunkt und Zentrum der Aktivitäten des Vereins ist die Europäische Metropolregion Nürnberg.
 
@@ -196,6 +196,7 @@ Signatur ersetzt hierbei die handschriftliche Unterschrift.
 -----------------------------------------------
 
 1. Für den Beschluss, den Verein aufzulösen, ist eine 3/4-Mehrheit der in der Mitgliederversammlung anwesenden Mitglieder erforderlich. Der Beschluss kann nur nach rechtzeitiger Ankündigung in der Einladung zur Mitgliederversammlung gefasst werden. 
+
 2. Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für Nachwuchsförderung mit vergleichbarem Zweck wie in § 2 beschrieben. 
 
 
