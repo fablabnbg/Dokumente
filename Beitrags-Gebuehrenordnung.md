@@ -9,11 +9,11 @@ Dieses Dokument definiert Beiträge und Gebühren für Mitglieder des Fab Lab Re
 Es tritt ab 11.05.2016 in Kraft und ersetzt die Beitragsordnung vom 01.04.2015.
 
 § 2 Beiträge
---------
+------------
 
 1. Ordentliche Mitglieder leisten regulär einen Beitrag in Höhe von 25 € pro Monat.
 
-    Ein Mitglied kann sich für eine "Mitgliedschaft Plus" entscheiden und einen erhöhten Beitrag von 40 € pro Monat leisten. !HIER FEHLT NOCH EINE GUTE ERKLÄRUNG!
+    Ein Mitglied kann sich für eine "Mitgliedschaft Plus" entscheiden und einen Beitrag von 40 € pro Monat leisten. Hierdurch können zusätzlich ein zweiter Erwachsener, der in enger persönlicher Beziehung steht, sowie verwandte Kinder unter 18 Jahren durch Antragstellung namentlich mit erfasst werden.
 
     Ein reduzierter Beitrag in Höhe von 10 € pro Monat ist für Schüler, Studenten, Rentner, Arbeitssuchende und Behinderte vorgesehen. Ein entsprechender Nachweis ist jährlich vorzulegen.
 
@@ -28,7 +28,7 @@ Es tritt ab 11.05.2016 in Kraft und ersetzt die Beitragsordnung vom 01.04.2015.
 6. In Fällen der besonderen Bedürftigkeit - insbesondere bei Erwerbslosigkeit oder Arbeitslosigkeit und unter der Voraussetzung eines ehrenamtlichen Engagements im Verein - kann der Vorstand im Einzelfall von der Erhebung eines Mitgliedsbeitrags absehen. Das Vorliegen der Gründe sowie das ehrenamtliche Engagement sind jährlich durch den Vorstand zu überprüfen. Der Vorstand berichtet der Mitgliederversammlung im Rahmen des Jahresberichts über die Anzahl der Befreiungen. 
 
 § 3 Gebühren
---------
+------------
 
 | Grund                             | Gebühr |
 |-----------------------------------|:------:|
