@@ -203,7 +203,8 @@ Signatur ersetzt hierbei die handschriftliche Unterschrift.
 § 12 Inkraftreten
 -----------------
 
-Dieses Dokument ist eine inhaltlich überarbeitete Neufassung der Satzung. Es tritt ab 11.05.2016 in Kraft und ersetzt die Satzung vom 21.02.2011.
+Dieses Dokument ist eine inhaltlich geänderte Fassung der Satzung gemäss Beschlussfassung der Mitgliederversammlung vom 10.05.2016. Es tritt ab 11.05.2016 in Kraft und ersetzt die Satzung vom 21.07.2011.
+
 
 
 Nürnberg, 10.05.2016
