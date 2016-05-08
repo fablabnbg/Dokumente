@@ -13,8 +13,7 @@ Es tritt ab 11.05.2016 in Kraft und ersetzt die Beitragsordnung vom 01.04.2015.
 
 1. Ordentliche Mitglieder leisten regulär einen Beitrag in Höhe von 25 € pro Monat.
 
-    Ein Mitglied kann sich für eine "Mitgliedschaft Plus" entscheiden und einen erhöhten Beitrag von 40 € pro Monat leisten. !HIER FEHLT NOCH EINE GUTE ERKLÄRUNG! EVTL SO (jw)?
-    Mit einer Mitgliedschaft Plus können ein bis zwei Erwachsene und bis zu vier Kinde (unter 18 Jahren) Mitglied werden. Die zu einer Mitgliedschaft Plus gehörenden Personen stehen in enger persönlicher Beziehung. Beispielsweise eine Familie, oder engere Verwandte.  Alle Personen einer Mitgliedschaft Plus werden bei Antragstellung namentlich erfasst.  Eine Mitgliedschaft Plus hat eine Stimme. Diese wird durch den zuerst unterzeichnenden Antragsteller ausgeübt. 
+    Ein Mitglied kann sich für eine "Mitgliedschaft Plus" entscheiden und einen erhöhten Beitrag von 40 € pro Monat leisten. !HIER FEHLT NOCH EINE GUTE ERKLÄRUNG!
 
 
     Ein reduzierter Beitrag in Höhe von 10 € pro Monat ist für Schüler, Studenten, Rentner, Arbeitssuchende und Behinderte vorgesehen. Ein entsprechender Nachweis ist jährlich vorzulegen.
@@ -40,4 +39,3 @@ Es tritt ab 11.05.2016 in Kraft und ersetzt die Beitragsordnung vom 01.04.2015.
 | Mahngebühr für dritte Mahnung     |  25 €  |
 | Verlust des Mitgliedsausweises    |  15 €  |
 
-!DEFINITIION: Wann ist eine Lastschriftrückgabe unberechtigt?!
