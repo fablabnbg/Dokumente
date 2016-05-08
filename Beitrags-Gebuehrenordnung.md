@@ -11,7 +11,7 @@ Es tritt ab 11.05.2016 in Kraft und ersetzt die Beitragsordnung vom 01.04.2015.
 § 2 Beiträge
 --------
 
-1. Ordentliches Mitglied leisten regulär einen Beitrag in Höhe von 25 € pro Monat.
+1. Ordentliche Mitglieder leisten regulär einen Beitrag in Höhe von 25 € pro Monat.
 
     Ein Mitglied kann sich für eine "Mitgliedschaft Plus" entscheiden und einen erhöhten Beitrag von 40 € pro Monat leisten. !HIER FEHLT NOCH EINE GUTE ERKLÄRUNG!
 
@@ -30,9 +30,9 @@ Es tritt ab 11.05.2016 in Kraft und ersetzt die Beitragsordnung vom 01.04.2015.
 § 3 Gebühren
 --------
 
-| Grund                            | Gebühr |
-|----------------------------------|:------:|
-| unbrechtigte Lastschriftrückgabe |  10 €  |
-| Mahngebühr für zweite Mahnung    |  25 €  |
-| Mahngebühr für dritte Mahnung    |  25 €  |
-| Verlust des Mitgliedsausweises   |  15 €  |
+| Grund                             | Gebühr |
+|-----------------------------------|:------:|
+| unberechtigte Lastschriftrückgabe |  10 €  |
+| Mahngebühr für zweite Mahnung     |  25 €  |
+| Mahngebühr für dritte Mahnung     |  25 €  |
+| Verlust des Mitgliedsausweises    |  15 €  |
