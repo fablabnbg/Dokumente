@@ -30,9 +30,9 @@ Es tritt ab 11.05.2016 in Kraft und ersetzt die Beitragsordnung vom 01.04.2015.
 § 3 Gebühren
 --------
 
-| Grund                          | Gebühr |
-|--------------------------------|:------:|
-| Rücklastschrift                |  10 €  |
-| Mahngebühr zweite Mahnung      |  25 €  |
-| Mahngebühr dritte Mahnung      |  25 €  |
-| Verlust des Mitgliedsausweises |  15 €  |
+| Grund                            | Gebühr |
+|----------------------------------|:------:|
+| unbrechtigte Lastschriftrückgabe |  10 €  |
+| Mahngebühr für zweite Mahnung    |  25 €  |
+| Mahngebühr für dritte Mahnung    |  25 €  |
+| Verlust des Mitgliedsausweises   |  15 €  |
