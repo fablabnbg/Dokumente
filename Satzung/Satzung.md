@@ -208,25 +208,3 @@ Dieses Dokument ist eine inhaltlich geänderte Fassung der Satzung gemäss Besch
 Es tritt ab 11.05.2016 in Kraft und ersetzt die Satzung vom 21.07.2011.
 
 
-
-Nürnberg, 10.05.2016
-
-
-  
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Vorsitzender des Vorstands: Jürgen Weigert
-
-  
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Mitglied des Vorstands: Michael Mosburger
-
-  
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Mitglied des Vorstands: Felix Schreiner
-
