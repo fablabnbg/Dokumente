@@ -81,7 +81,9 @@ Es tritt ab 11.05.2016 in Kraft.
 
     e) Wahlunterlagen werden unmittelbar nach der Versammlung durch den Wahlleiter unter Einhaltung geltender Datenschutzbestimmungen vernichtet, wenn in der Mitgliederversammlung kein abweichender Beschluss gefasst wurde.
     
-8. Mitglieder, die nach Feststellung der Beschlussfähigkeit eintreffen, sind nicht stimmberechtigt und können nur als Gast an der Mitgliederversammlung teilnehmen. Später eintreffende Mitglieder können aber eine vorab ordentlich übertragene Stimme ab diesem Zeitpunkt selbst wahrnehmen.
+8. Personen, die nach Feststellung der Beschlussfähigkeit eintreffen, sind nicht stimmberechtigt und können, falls zugelassen, nur als Gast an der Mitgliederversammlung teilnehmen. Später eintreffende stimmberechtigte Personen können aber eine vorab ordentlich übertragene Stimme ab diesem Zeitpunkt selbst wahrnehmen.
+
+9. Ausgeübte Stimmen werden bei Abstimmungen als Enthaltung gewertet, wenn die Mitgliederversammlung vorzeitig verlassen wird und  keine schriftliche Stimmübertragung erfolt ist. Die Stimmkarte ist vor verlassen des Raumes dem Versammlungsleiter zu übergeben.
 
 § 3 Anträge zur Änderung der Geschäftsordnung
 ---------------------------------------------
