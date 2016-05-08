@@ -2,17 +2,18 @@
 #
 # sudo apt-get install pandoc texlive-xetex
 
+PANDOC_PDF=pandoc --latex-engine xelatex --standalone -f markdown_github -t latex -V mainfont=DroidSans -V geometry=margin=2.5cm -V fontsize=12pt
+PANDOC_HTML=pandoc --standalone -f markdown_github -t html -V mainfont=sans
+
 all: satzung
 
 satzung: Satzung.html Satzung.pdf
 
 Satzung.pdf: Satzung/Satzung.md Vorstandsunterschriften.md
-	cat Satzung/Satzung.md Vorstandsunterschriften.md > Satzung_mit_Unterschriften.md
-	pandoc --standalone -f markdown_github Satzung_mit_Unterschriften.md -t latex -V mainfont=sans -o Satzung.pdf
-	rm Satzung_mit_Unterschriften.md
+	$(PANDOC_PDF) Satzung/Satzung.md Vorstandsunterschriften.md -o Satzung.pdf
 
 Satzung.html: Satzung/Satzung.md
-	pandoc --standalone -f markdown_github Satzung/Satzung.md -t html -V mainfont=sans -o Satzung.html
+	$(PANDOC_HTML) Satzung/Satzung.md -o Satzung.html
 
 clean:
 	rm Satzung.pdf
