@@ -1,8 +1,8 @@
 Geschäftsordnung des Fab Lab Region Nürnberg e. V.
 ==================================================
 
-§ 1 Geltungsbereich
-------------------
+§ 1 Allgemeines
+---------------
 
 Dieses Dokument gilt in Ergänzung der Satzung des Fab Lab Region Nürnberg e. V.
 
