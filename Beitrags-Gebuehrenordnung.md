@@ -1,8 +1,8 @@
 Beitrag- und Gebührenordnung des Fab Lab Region Nürnberg e. V.
 ==============================================================
 
-§ 1 Geltungsbereich
--------------------
+§ 1 Allgemeines
+---------------
 
 Dieses Dokument definiert Beiträge und Gebühren für Mitglieder des Fab Lab Region Nürnberg e. V.
 
