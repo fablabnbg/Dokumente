@@ -205,6 +205,9 @@ Signatur ersetzt hierbei die handschriftliche Unterschrift.
 
 Dieses Dokument ist eine inhaltlich geänderte Fassung der Satzung gemäss Beschlussfassung der Mitgliederversammlung vom 10.05.2016. 
 
-Es tritt ab 11.05.2016 in Kraft und ersetzt die Satzung vom 21.07.2011.
+Es tritt ab 11.05.2016 in Kraft und ersetzt die Satzung vom 21.07.2011.  
 
+.
+
+.
 

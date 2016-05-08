@@ -3,20 +3,20 @@
 
 
 
-Nürnberg, den \_\_.\_\_.\_\_\_\_
+Nürnberg, den \_\_.\_\_.\_\_\_\_  
 
 
   
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Vorsitzender des Vorstands: Jürgen Weigert
+Vorsitzender des Vorstands: Jürgen Weigert  
 
     
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Mitglied des Vorstands: Michael Mosburger
+Mitglied des Vorstands: Michael Mosburger  
 
       
 

@@ -55,7 +55,7 @@ Es tritt ab 11.05.2016 in Kraft.
 
 6. Sollte eine Vorstandswahl stattfinden, so ist diese nach der Entlastung des Vorstands anzusetzen.
 
-    Die Satzung sieht eine variable Zahl von Vorständen vor. Die Anzahl der zu wählenden Mitglieder des Vorstands wird vor der Vorstandswahl per Akklamation in relativer Mehrheit beschlossen.
+    Die Satzung sieht eine variable Zahl von Mitgliedern des Vorstands vor. Die Anzahl der zu wählenden Mitglieder des Vorstands wird vor der Vorstandswahl per Akklamation in relativer Mehrheit beschlossen.
 
     Die Wahl des Vorstandes findet stets als geheime Wahl in schriftlicher Form statt. Hierzu wird durch die Wahlleitung eine Liste mit den Namen der aufgestellten Kandidaten erstellt. Die Sortierung der Kandidaten findet in alphabetischer Reihenfolge statt, wobei der Nachname zuerst genannt wird. Namentliche Vorschläge für diese Liste können vor der Wahl durch jede stimmberechtigte Person eingereicht werden. Jede stimmberechtigte Person hat entsprechend der Anzahl an zu wählenden Mitgliedern des Vorstand Stimmen. Eine Kumulation ist nicht möglich.
 
