@@ -42,8 +42,10 @@ Es tritt ab 11.05.2016 in Kraft.
     i) Wahl der neuen Rechnungsprüfer
 
     j) Entlastung des Vorstands
-      
-    k) *Weitere Tagesordnungspunkte der jeweiligen Mitgliederversammlung*
+     
+    ⋮  
+    ⋮ *weitere Tagesordnungspunkte der jeweiligen Mitgliederversammlung*  
+    ⋮  
 
     x) Verlesung der Niederschrift
 
@@ -101,4 +103,3 @@ Damit ergibt sich aus der Satzung eine Antragsfrist von z.Z. 14 Tagen vor dem Te
 -------------
 
 Über Fragen zur Auslegung der Geschäftsordnung entscheidet die Mitgliederversammlung per einfacher Mehrheit.
-
