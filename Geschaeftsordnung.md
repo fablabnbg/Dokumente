@@ -4,7 +4,7 @@ Geschäftsordnung des Fab Lab Nürnberg e. V.
 § 1 Geltungsbereich
 ------------------
 
-Dieses Dokument gilt in Ergänzung der Satzung des Fab Lab Nürnberg e. V.
+Dieses Dokument gilt in Ergänzung der Satzung des Fab Lab Region Nürnberg e. V.
 
 Es tritt ab 11.05.2016 in Kraft.
 
