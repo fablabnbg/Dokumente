@@ -1,5 +1,5 @@
-Beitragsordnung und Gebührenordnung des Fab Lab Region Nürnberg e.V
-===================================================================
+Beitrag- und Gebührenordnung des Fab Lab Region Nürnberg e. V.
+==============================================================
 
 § 1 Geltungsbereich
 -------------------
@@ -11,32 +11,21 @@ Es tritt ab 11.05.2016 in Kraft und ersetzt die Beitragsordnung vom 01.04.2015.
 § 2 Beiträge
 --------
 
-Die Mitgliederversammlung des Fab Lab Region Nürnberg e.V. verabschiedet per E-MailAbstimmung mit Gültigkeit ab dem 01.04.2015 folgende Beitragsordnung:
+1. Ordentliches Mitglied leisten regulär einen Beitrag in Höhe von 25 € pro Monat.
 
-Ordentliche und jugendliche Mitglieder dürfen das Fab Lab im Rahmen der Fair Use Policy nutzen.
-Die “Fair Use Policy” findest Du unter http://wiki.fablab-nuernberg.de/w/Fair_Use_Policy.
+    Ein Mitglied kann sich für eine "Mitgliedschaft Plus" entscheiden und einen erhöhten Beitrag von 40 € pro Monat leisten. !HIER FEHLT NOCH EINE GUTE ERKLÄRUNG!
 
-Ordentliches Mitglied und jugendliches Mitglied*
+    Ein reduzierter Beitrag in Höhe von 10 € pro Monat ist für Schüler, Studenten, Rentner, Arbeitssuchende und Behinderte vorgesehen. Ein entsprechender Nachweis ist jährlich vorzulegen.
 
-    * 25 €/Monat (1 Erwachsener)
+2. Fördermitglieder leisten einen beliebigen Beitrag, jedoch mindestens 2 € pro Monat.
 
-    * 40 €/Monat (Mitgliedschaft Plus; 2 Erwachsene und 4 Kinder)
+3. Die Beiträge sind im Voraus zu leisten und werden durch Bankeinzug monatlich erhoben. Wahlweise ist eine jährliche Zahlung möglich. In diesem Fall reduziert sich die Beitragssumme um einen Monatsbeitrag. Fördermitglieder sind von dieser Regelung ausgenommen.
 
-    * 10 €/Monat (Ermäßigt für Schüler, Studenten und Senioren)
+4. Beiträge unter 5 € pro Monat werden ausschließlich jährlich erhoben. Eine Vergünstigung ist in diesem Fall nicht vorgesehen.
 
-Fördermitglied
+5. Vorausbezahlte Beiträge werden bei Kündigung nicht erstattet.
 
-    * beliebig, aber mindestens 2 €/Monat
-
-Die Kündigungsfrist beträgt laut Satzung 1 Monat zum Quartalsende.
-
-Der Beitrag ist im Voraus zu leisten und wird vorzugsweise durch Bankeinzug erhoben. Der Beitrag kann bei jährlicher Vorauszahlung auch per Überweisung erfolgen.
-
-Bei Beiträgen unter 5 €/Monat erfolgt der Bankeinzug jährlich, ansonsten monatlich.
-
-Vorausbezahlte Beiträge werden bei Kündigung nicht erstattet.
-
-* In Fällen der besonderen Bedürftigkeit - insbesondere bei Erwerbslosigkeit oder Arbeitslosigkeit und unter der Voraussetzung eines ehrenamtlichen Engagements im Verein - kann der Vorstand im Einzelfall von der Erhebung eines Mitgliedsbeitrags absehen. Das Vorliegen der Gründe sowie das ehrenamtliche Engagement sind jährlich durch den Vorstand zu überprüfen. Der Vorstand berichtet der Mitgliederversammlung im Rahmen des Jahresberichts über die Anzahl der Befreiungen. 
+6. In Fällen der besonderen Bedürftigkeit - insbesondere bei Erwerbslosigkeit oder Arbeitslosigkeit und unter der Voraussetzung eines ehrenamtlichen Engagements im Verein - kann der Vorstand im Einzelfall von der Erhebung eines Mitgliedsbeitrags absehen. Das Vorliegen der Gründe sowie das ehrenamtliche Engagement sind jährlich durch den Vorstand zu überprüfen. Der Vorstand berichtet der Mitgliederversammlung im Rahmen des Jahresberichts über die Anzahl der Befreiungen. 
 
 § 3 Gebühren
 --------
