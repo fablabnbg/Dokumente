@@ -119,6 +119,7 @@ Organe des Vereins sind
 
 5. Der Vorstand fasst seine Beschlüsse mit einfacher Mehrheit.
 
+
 § 8 Mitgliederversammlung
 -------------------------
 
@@ -185,12 +186,7 @@ Organe des Vereins sind
 
 1. Die in Vorstandssitzungen und in Mitgliederversammlungen erfassten Beschlüsse sind schriftlich niederzulegen und vom Vorstand zu unterzeichnen.
 
-2. Alle Schriftformerfordernisse können durch digitale
-Dokumente und digitale Kommunikation erfüllt werden, falls dies nicht explizit
-ausgeschlossen ist, und wenn sie eine fortgeschrittene elektronische Signatur
-entsprechend § 2 Nr. 2 SigG als Authentizitätsnachweis besitzen. Sie können in
-diesem Fall papiergebundene Dokumente in vollem Umfang ersetzen. Die
-Signatur ersetzt hierbei die handschriftliche Unterschrift.
+2. Alle Schriftformerfordernisse können durch digitale Dokumente und digitale Kommunikation erfüllt werden, falls dies nicht explizit ausgeschlossen ist, und wenn sie eine fortgeschrittene elektronische Signatur entsprechend § 2 Nr. 2 SigG als Authentizitätsnachweis besitzen. Sie können in diesem Fall papiergebundene Dokumente in vollem Umfang ersetzen. Die Signatur ersetzt hierbei die handschriftliche Unterschrift.
 
 § 11 Auflösung des Vereins und Vermögensbindung
 -----------------------------------------------
@@ -199,23 +195,30 @@ Signatur ersetzt hierbei die handschriftliche Unterschrift.
 
 2. Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für Nachwuchsförderung mit vergleichbarem Zweck wie in § 2 beschrieben. 
 
+.
+.
 
 Nürnberg, XX.XX.XXXX  
 
 
-  
+.
+.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Vorsitzender des Vorstands: Jürgen Weigert
 
   
+.
+.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Mitglied des Vorstands: Michael Mosburger
 
   
+.
+.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
