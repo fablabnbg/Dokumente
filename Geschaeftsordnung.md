@@ -80,6 +80,8 @@ Es tritt ab 11.05.2016 in Kraft.
     d) Die Auszählung von Stimmzetteln erfolgt öffentlich durch den Wahlleiter.
 
     e) Wahlunterlagen werden unmittelbar nach der Versammlung durch den Wahlleiter unter Einhaltung geltender Datenschutzbestimmungen vernichtet, wenn in der Mitgliederversammlung kein abweichender Beschluss gefasst wurde.
+    
+8. Mitglieder, die nach Feststellung der Beschlussfähigkeit eintreffen, sind nicht stimmberechtigt und können nur als Gast an der Mitgliederversammlung teilnehmen. Später eintreffende Mitglieder können aber eine vorab ordentlich übertragene Stimme ab diesem Zeitpunkt selbst wahrnehmen.
 
 § 3 Anträge zur Änderung der Geschäftsordnung
 ---------------------------------------------
