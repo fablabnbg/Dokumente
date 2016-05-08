@@ -21,7 +21,7 @@ Es tritt ab 11.05.2016 in Kraft und ersetzt die Beitragsordnung vom 01.04.2015.
 
 3. Die Beiträge sind im Voraus zu leisten und werden durch Bankeinzug monatlich erhoben. Wahlweise ist eine jährliche Zahlung möglich. In diesem Fall reduziert sich die Beitragssumme um einen Monatsbeitrag. Förderbeiträge sind von dieser Regelung ausgenommen.
 
-4. Beiträge unter 5 € pro Monat werden ausschließlich jährlich erhoben. Eine Vergünstigung ist in diesem Fall nicht vorgesehen.
+4. Beiträge bis 5 € pro Monat werden ausschließlich jährlich erhoben. Eine Vergünstigung ist in diesem Fall nicht vorgesehen.
 
 5. Vorausbezahlte Beiträge werden bei Kündigung nicht erstattet.
 
