@@ -200,7 +200,13 @@ Signatur ersetzt hierbei die handschriftliche Unterschrift.
 2. Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für Nachwuchsförderung mit vergleichbarem Zweck wie in § 2 beschrieben. 
 
 
-Nürnberg, XX.XX.XXXX  
+§ 12 Inkraftreten
+-----------------
+
+Dieses Dokument ist eine inhaltlich überarbeitete Neufassung der Satzung. Es tritt ab 11.05.2016 in Kraft und ersetzt die Satzung vom 21.02.2011.
+
+
+Nürnberg, 10.05.2016
 
 
   
