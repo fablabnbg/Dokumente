@@ -8,68 +8,62 @@ Dieses Dokument gilt in Ergänzung der Satzung des Fab Lab Nürnberg e. V.
 
 Es tritt ab 11.05.2016 in Kraft.
 
-§ 2 Tagesordnungspunkte der Mitgliederversammlung
--------------------------------------------------
+§ 2 Mitgliederversammlung
+-------------------------
 
-1. Autorisierung am Eingang durch Mitgliedsausweis und/oder Lichtbildausweis/Führerschein
+1. Um einen reibungslosen Ablauf zu gewährleisten ist während Versammlungen vom Konsum von Alkohol, Drogen und Tabakwaren abzusehen.
 
-    * Abstreichen auf der Liste
+2. Um für das Individualwohl Sorge zu tragen sind während Versammlungen nach jeweils maximal 90 Minuten 10 minütige Pausen durch den Versammlungsleiter vorzusehen.
+
+3. Die Autorisierung als Mitglied erfolgt am Eingang durch Mitgliedsausweis und/oder Lichtbildausweis bzw. Führerschein. Vorhandene Vollmachten sind in diesem Prozess unaufgefordert vorzulegen. Die Anwesenheit und Ausübung von Stimmrecht(en), sowie die Ausgabe der Stimmkarte(n) ist durch Unterschrift zu quittieren.
+
+4. Eine kommissarische Leitung der Mitgliederversammlung wird vom Vorstand eingesetzt und leitet die Versammlung bis durch die stimmberechtigten Personen eine Leitung gewählt wurde.
+
+    Die Versammlungsleitung führ durch die Versammlung und die entsprechende Tagesordnung. Sie ist verantwortlich für die ordnungsgemäße Durchführung der Mitgliederversammlung entsprechend der Massgabe durch die Satzung sowie die Geschäftsordnung. Darüber hinaus überwacht sie die Ausgabe der Stimmkarten oder führt diese selbst aus.
+
+5. Tagesordnungspunkte
 	
-    * Prüfung möglicher Vollmachten
-	
-    * Ausgabe von Stimmkarte(n)
-	
-2. Begrüßung Vorstand
-	
-3. Feststellung der Beschlussfähigkeit
+    a) Begrüßung Vorstand
 
-4. Beschlussfassung über die Zulassung von Gästen
+    b) Feststellung der Beschlussfähigkeit
 
-5. Wahl des Versammlungsleiters; Akklamation, relative Mehrheit
+    c) Beschlussfassung über die Zulassung von Gästen
 
-6. Wahl des Schriftführers; Akklamation, relative Mehrheit
+    d) Wahl des Versammlungsleiters; Akklamation, relative Mehrheit
 
-7. Geschäftsbericht des Vorstandes/Geschäftsführers mit Aussprache
+    e) Wahl des Schriftführers; Akklamation, relative Mehrheit
 
-8. Bericht der Rechnungsprüfer
+    f) Geschäftsbericht des Vorstandes/Geschäftsführers mit Aussprache
 
-9. Entlastung der Rechnungsprüfer
+    g) Bericht der Rechnungsprüfer
 
-10. Wahl der neuen Rechnungsprüfer
+    h) Entlastung der Rechnungsprüfer
 
-11. Entlastung des Vorstands
+    i) Wahl der neuen Rechnungsprüfer
 
-12. Wahl des Vorstands
+    j) Entlastung des Vorstands
+      
+    k) *Weitere Tagesordnungspunkte der jeweiligen Mitgliederversammlung*
 
-    12.1. Festlegung der Anzahl der Vorstände; Per Akklamation, relative Mehrheit
+    x) Verlesung der Niederschrift
 
-    12.2. Wahl des Vorstands; Geheime, schriftliche Wahl; mit Namensliste (Nachname, Vorname) in alphabetischer Reihenfolge
+    y) Beschluss der Niederschrift; einstimmig, absolute Mehrheit
 
-        12.2.1. Namentliche Vorschläge durch stimmberechtigte Personen
+    z) Verabschiedung und Schlusswort
 
-        12.2.2. Keine Kumulation; Anzahl an Stimmen abhängig von 12.1
+6. Sollte eine Vorstandswahl stattfinden, so ist diese unmittelbar nach der Entlastung des Vorstands durchzuführen.
 
-            12.2.2.1. Ein Wahldurchgang; Kandidaten mit absoluter Mehrheit (der stimmberechtigten Personen) gelangen in den zweiten Wahldurchgang
+    Die Satzung sieht eine variable Zahl von Vorständen fest. Die Anzahl der zu wählenden Mitglieder des Vorstands wird vor der Vorstandswahl per Akklamation in relativer Mehrheit beschlossen.
 
-            12.2.2.2. Sollten mehr als in 12.1 bestimmte Anzahl erreicht wird: Zweiter Wahldurchgang; relative Mehrheit ausreichend
+    Die Wahl des Vorstandes findet stets als geheime Wahl in schriftlicher Form statt. Hierzu wird durch die Wahlleitung eine Liste mit den Namen der aufgestellten Kandidaten erstellt. Die Sortierung der Kandidaten findet in alphabetischer Reihenfolge statt, wobei der Nachname zuerst genannt wird. Namentliche Vorschläge für diese Liste können vor der Wahl durch jede stimmberechtigte Person eingereicht werden. Jede stimmberechtigte Person hat entsprechend der Anzahl an zu wählenden Mitgliedern des Vorstand Stimmen. Eine Kumulation ist nicht möglich.
 
-            12.2.2.3. ggf. Stichwahl zwischen Kandidaten mit gleicher Stimmenzahl (falls relevant)
+    Um als Mitglied des Vorstands gewählt zu werden ist eine absolute Mehrheit erforderlich.
 
-        12.2.3. Wahl des Vorsitzenden
+    Sollten mehr Kandidaten eine absolute Mehrheit erreichen als Mitglieder des Vorstands gewählt werden sollen, so findet ein zweiter Wahldurchgang statt. In diesem Wahldurchgang wird zwischen allen Kandidaten, welche eine absolute Mehrheit im ersten Wahldurchgang erhalten haben, abgestimmt. Hierbei ist eine relative Mehrheit ausreichend. Bei Stimmengleichheit findet zwischen den betreffenden Kandidaten eine Stichwahl statt.
 
-            12.2.3.1. Namentliche Vorschläge durch stimmberechtigte Personen, Kandidaten aus dem Kreis der gewählten Vorstände
+    Der Vorstandsvorsitzende wird aus den neuen Mitgliedern des Vorstands gewählt. Die Abstimmung findet per Akklamation in relativer Mehrheit statt. Namentliche Vorschläge können durch jede stimmberechtigte Person eingericht werden.
 
-            12.2.3.2. Ein Wahldurchgang; relative Mehrheit; Bei Gleichstand Stichwahl
-
-    12.3. Danksagung und Grußwort des neuen Vorstandes
-	
-13. *Platzhalter für Tagesordnungspunkte, die der Einladung zur MV beiliegen*
-
-14. Verlesung der Niederschrift
-
-15. Beschluss der Niederschrift; einstimmig, absolute Mehrheit
-
-16. Verabschiedung und Schlusswort
+    Durch den Versammlungsleiter ist für den neugewählten Vorstand ausreichend Zeit für eine Danksagung, sowie ein Grußwort vorzusehen.
 
 § 3 Definitionen zur Wahl
 ------------------------
@@ -94,39 +88,15 @@ Es tritt ab 11.05.2016 in Kraft.
 
     4.1. Die Wahlunterlagen werden unmittelbar nach der Versammlung durch den Wahlleiter unter Einhaltung geltender Datenschutzbestimmungen vernichtet, wenn in der Versammlung kein abweichender Beschluss gefasst wurde.
 
-§ 4 Versammlungsleitung
-----------------------
 
-1. Die kommissarische Leitung der Mitgliederversammlung wird vom Vorstand eingesetzt und leitet die Versammlung bis durch die stimmberechtigten Personen eine Leitung gewählt wurde.
-
-2. Aufgaben
-
-    2.1. Leiten der Versammlung
-
-    2.2. Vorbereiten des Raumes
-
-    2.3. Ausgabe der Stimmkarten
-
-§ 4 Allgemeines
---------------
-
-1. Um einen reibungslosen Ablauf zu gewährleisten ist während Versammlungen vom Konsum von Alkohol, Drogen und Tabakwaren abzusehen.
-
-2. Um für das Individualwohl Sorge zu tragen sind während Versammlungen nach jeweils maximal 90 Minuten 10 minütige Pausen durch den Versammlungsleiter vorzusehen.
-
-§ 5 Anträge zur Änderung der Geschäftsordnung
+§ 4 Anträge zur Änderung der Geschäftsordnung
 --------------------------------------------
 
 Anträge zur Änderung der Geschäftsordnung sind dem Vorstand als ordentliche Anträge zu stellen.
 
 Damit ergibt sich aus der Satzung eine Antragsfrist von 14 Tagen vor dem Termin der Mitgliederversammlung.
 
-§ 6 Auslegung
+§ 5 Auslegung
 ------------
 
 Über die Auslegung der Geschäftsordnung entscheidet die Mitgliederversammlung per einfacher Mehrheit.
-
-§ 7 Inkrafttreten
-----------------
-
-Die Geschäftsoprdnung tritt am Tag ihrer Annahme durch die Mitgliederversammlung in Kraft.
