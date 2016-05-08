@@ -1,5 +1,5 @@
-Geschäftsordnung des Fab Lab Nürnberg e. V.
-===========================================
+Geschäftsordnung des Fab Lab Region Nürnberg e. V.
+==================================================
 
 § 1 Geltungsbereich
 ------------------
