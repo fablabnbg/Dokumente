@@ -1,8 +1,11 @@
 # One Makefile to rule them all
 #
 # sudo apt-get install pandoc texlive-xetex
+# 
+# Tune margins, so dass die Unterschriften beieinander bleiben!
 
-PANDOC_PDF=pandoc --latex-engine xelatex --standalone -f markdown_github -t latex -V mainfont=FreeSans -V geometry=margin=2cm -V fontsize=12pt -V papersize=A4
+MARGINS=geometry:"top=1.5cm, bottom=1.5cm, left=1.7cm, right=1.7cm"
+PANDOC_PDF=pandoc --latex-engine xelatex --standalone -f markdown_github -t latex -V mainfont=FreeSans -V $(MARGINS) -V fontsize=10pt -V papersize=A4
 PANDOC_HTML=pandoc --standalone -f markdown_github -t html -V mainfont=sans
 
 all: satzung Beitrags-Gebuehrenordnung.pdf Geschaeftsordnung.pdf
@@ -19,7 +22,7 @@ Beitrags-Gebuehrenordnung.pdf: Beitrags-Gebuehrenordnung.md
 	$(PANDOC_PDF) -o build/Beitrags-Gebuehrenordnung.pdf Beitrags-Gebuehrenordnung.md
 
 Geschaeftsordnung.pdf: Geschaeftsordnung.md
-	$(PANDOC_PDF) -V fontsize=10pt -o build/Geschaeftsordnung.pdf Geschaeftsordnung.md
+	$(PANDOC_PDF) -o build/Geschaeftsordnung.pdf Geschaeftsordnung.md
 
 clean:
 	rm -rf build/*
