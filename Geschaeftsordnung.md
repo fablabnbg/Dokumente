@@ -71,7 +71,7 @@ Es tritt ab 11.05.2016 in Kraft.
 
     a) Das Amt des Wahlleiters wird dem Versammlungsleiter übertragen.
 
-    b) Die Durchführung von Wahlen obliegt dem Wahlleiter. Der Wahlleiter kann bis zu zwei Wahlhelfer bennen. Die Mitgliederversammlung kann dieser Benennung bei Bedarf widersprechen. In diesem Fall werde die Wahlhelfer per Akklamation mit relativer Mehrheit gewählt.
+    b) Die Durchführung von Wahlen obliegt dem Wahlleiter. Der Wahlleiter kann bis zu zwei Wahlhelfer benennen. Die Mitgliederversammlung kann dieser Benennung bei Bedarf widersprechen. In diesem Fall werde die Wahlhelfer per Akklamation mit relativer Mehrheit gewählt.
 
     c) Wahlgänge sind nicht geheim und werden per Akklamation (einfaches Handzeichen) abgestimmt, sofern dies in diesem Dokument nicht anders gefordert ist oder durch eine stimmberechtigte Person beantragt wurde.
 
