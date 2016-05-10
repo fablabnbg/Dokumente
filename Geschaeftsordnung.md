@@ -11,17 +11,15 @@ Es tritt ab 11.05.2016 in Kraft.
 § 2 Mitgliederversammlung
 -------------------------
 
-1. Um einen reibungslosen Ablauf zu gewährleisten, ist während Versammlungen vom Konsum von Alkohol, Drogen und Tabakwaren abzusehen.
+1. Alle Anwesenden sind angehalten durch Ihr Verhalten, einen reibungslosen Ablauf zu gewährleisten.
 
-2. Um für das Individualwohl Sorge zu tragen, sind während Versammlungen nach jeweils maximal 90 Minuten 10 minütige Pausen durch den Versammlungsleiter vorzusehen.
+2. Die Autorisierung als Mitglied erfolgt am Eingang durch Mitgliedsausweis und/oder Lichtbildausweis bzw. Führerschein. Vorhandene Vollmachten sind in diesem Prozess unaufgefordert vorzulegen. Die Anwesenheit und Ausübung von Stimmrecht(en), sowie die Ausgabe der Stimmkarte(n) ist durch Unterschrift zu quittieren.
 
-3. Die Autorisierung als Mitglied erfolgt am Eingang durch Mitgliedsausweis und/oder Lichtbildausweis bzw. Führerschein. Vorhandene Vollmachten sind in diesem Prozess unaufgefordert vorzulegen. Die Anwesenheit und Ausübung von Stimmrecht(en), sowie die Ausgabe der Stimmkarte(n) ist durch Unterschrift zu quittieren.
+3. Eine kommissarische Versammlungsleitung wird vom Vorstand eingesetzt und leitet die Versammlung bis durch die stimmberechtigten Personen eine Leitung gewählt wurde.
 
-4. Eine kommissarische Versammlungsleitung wird vom Vorstand eingesetzt und leitet die Versammlung bis durch die stimmberechtigten Personen eine Leitung gewählt wurde.
+    Die Versammlungsleitung führt durch die Versammlung und die entsprechende Tagesordnung. Sie ist verantwortlich für die ordnungsgemäße Durchführung der Mitgliederversammlung, entsprechend der Massgabe durch die Satzung sowie die Geschäftsordnung. Darüber hinaus überwacht sie die Ausgabe der Stimmkarten oder führt diese selbst aus.
 
-    Die Versammlungsleitung führt durch die Versammlung und die entsprechende Tagesordnung. Sie ist verantwortlich für die ordnungsgemäße Durchführung der Mitgliederversammlung entsprechend der Massgabe durch die Satzung sowie die Geschäftsordnung. Darüber hinaus überwacht sie die Ausgabe der Stimmkarten oder führt diese selbst aus.
-
-5. Tagesordnungspunkte
+4. Übliche Tagesordnungspunkte der ordentlichen Mitgliederversammlung
 	
     a) Begrüßung Vorstand
 
@@ -53,7 +51,7 @@ Es tritt ab 11.05.2016 in Kraft.
 
     z) Verabschiedung und Schlusswort
 
-6. Sollte eine Vorstandswahl stattfinden, so ist diese nach der Entlastung des Vorstands anzusetzen.
+5. Sollte eine Vorstandswahl stattfinden, so ist diese nach der Entlastung des Vorstands anzusetzen.
 
     Die Satzung sieht eine variable Zahl von Mitgliedern des Vorstands vor. Die Anzahl der zu wählenden Mitglieder des Vorstands wird vor der Vorstandswahl per Akklamation in relativer Mehrheit beschlossen.
 
@@ -63,11 +61,11 @@ Es tritt ab 11.05.2016 in Kraft.
 
     Sollten mehr Kandidaten eine absolute Mehrheit erreichen als Mitglieder des Vorstands gewählt werden sollen, so findet ein zweiter Wahldurchgang statt. In diesem Wahldurchgang wird zwischen allen Kandidaten, welche eine absolute Mehrheit im ersten Wahldurchgang erreicht haben, abgestimmt. Hierbei ist eine relative Mehrheit ausreichend. Bei Stimmengleichheit findet zwischen den betreffenden Kandidaten eine Stichwahl statt.
 
-    Der Vorstandsvorsitzende wird aus den neuen Mitgliedern des Vorstands gewählt. Die Abstimmung findet per Akklamation in relativer Mehrheit statt. Namentliche Vorschläge können durch jede stimmberechtigte Person eingericht werden.
+    Der Vorstandsvorsitzende wird aus den neuen Mitgliedern des Vorstands gewählt. Die Abstimmung findet per Akklamation in relativer Mehrheit statt. Namentliche Vorschläge können durch jede stimmberechtigte Person eingereicht werden.
 
     Durch den Versammlungsleiter ist für den neugewählten Vorstand ausreichend Zeit für eine Danksagung, sowie ein Grußwort vorzusehen.
 
-7. Durchführung von Wahlen
+6. Durchführung von Wahlen
 
     a) Das Amt des Wahlleiters wird dem Versammlungsleiter übertragen.
 
@@ -81,9 +79,9 @@ Es tritt ab 11.05.2016 in Kraft.
 
     e) Wahlunterlagen werden unmittelbar nach der Versammlung durch den Wahlleiter unter Einhaltung geltender Datenschutzbestimmungen vernichtet, wenn in der Mitgliederversammlung kein abweichender Beschluss gefasst wurde.
     
-8. Personen, die nach Feststellung der Beschlussfähigkeit eintreffen, sind nicht stimmberechtigt und können, falls zugelassen, nur als Gast an der Mitgliederversammlung teilnehmen. Später eintreffende stimmberechtigte Personen können aber eine vorab ordentlich übertragene Stimme ab diesem Zeitpunkt selbst wahrnehmen.
+7. Personen, die nach Feststellung der Beschlussfähigkeit eintreffen, sind nicht stimmberechtigt und können, falls zugelassen, nur als Gast an der Mitgliederversammlung teilnehmen. Später eintreffende stimmberechtigte Personen können aber eine vorab ordentlich übertragene Stimme ab diesem Zeitpunkt selbst wahrnehmen.
 
-9. Ausgeübte Stimmen werden bei Abstimmungen als Enthaltung gewertet, wenn die Mitgliederversammlung vorzeitig verlassen wird und  keine schriftliche Stimmübertragung erfolt ist. Die Stimmkarte ist vor verlassen des Raumes dem Versammlungsleiter zu übergeben.
+8. Ausgeübte Stimmen werden bei Abstimmungen als Enthaltung gewertet, wenn die Mitgliederversammlung vorzeitig verlassen wird und  keine schriftliche Stimmübertragung erfolt ist. Die Stimmkarte ist vor verlassen des Raumes dem Versammlungsleiter zu übergeben.
 
 § 3 Anträge zur Änderung der Geschäftsordnung
 ---------------------------------------------
