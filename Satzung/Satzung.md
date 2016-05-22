@@ -16,7 +16,7 @@ Satzung des Fab Lab Region Nürnberg e.V.
 § 2 Vereinszweck
 ----------------
 
-1. Der Verein verfolgt ausschließlich und unmittelbar Gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung (§§ 51ff) in der jeweils gültigen Fassung.
+1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung (§§ 51ff) in der jeweils gültigen Fassung.
 
 2. Der Zweck des Fab Lab Region Nürnberg e.V. ist die Schaffung einer offenen Plattform für Lernen und Kreativität im Bereich Technik in der Region Nürnberg mit niederschwelligen Angeboten zur Förderung von Neugier, komplexem Denken und Handeln, Teamfähigkeit und interkultureller Kompetenz an den Schnittstellen von Technologie, Kunst, Design und Entrepreneurship.
 
@@ -28,7 +28,7 @@ Satzung des Fab Lab Region Nürnberg e.V.
     
     c) die praktische und kreative Intelligenz Einzelner in Ergänzung zum analytischen Fokus der schulischen bzw. universitären Ausbildung stärken und so die Entdeckung und Entwicklung des eigenen kreativen Potentials fördern,
     
-    d) den Zugang zu (Schlüssel)Technologie ermöglichen bzw. erleichtern und zum praktischen und kreativen Umgang mit Technologie anregen,
+    d) den Zugang zu Schlüssel-Technologie ermöglichen bzw. erleichtern und zum praktischen und kreativen Umgang mit Technologie anregen,
     
     e) das Lernen durch eigene Erfahrungen, selbstmotiviertes Lernen und das Lernen von Anderen/Peers unterstützen,
     
@@ -47,7 +47,7 @@ Satzung des Fab Lab Region Nürnberg e.V.
 
 2. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder des Vereins dürfen in ihrer Eigenschaft als Mitglieder keine Zuwendungen aus Mitteln des Vereins erhalten.   
 
-3. Die Mitglieder dürfen bei ihrem Ausscheiden oder bei  Auflösung oder Aufhebung des Vereins keine Anteile des Vereinsvermögens erhalten.  
+3. Die Mitglieder dürfen bei ihrem Ausscheiden oder bei Auflösung oder Aufhebung des Vereins keine Anteile des Vereinsvermögens erhalten.  
 
 4. Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden. 
 
@@ -124,7 +124,7 @@ Organe des Vereins sind
 
 1. Die Mitgliederversammlung ist einmal jährlich einzuberufen. 
 
-2. Eine außerordentliche Mitgliederversammlung ist einzuberufen, wenn es das Vereinsinteresse erfordert oder wenn die Einberufung von 1/3 der stimmberechtigten Mitglieder schriftlich und unter Angabe des Zweckes und der Gründe beantragt wird. Die Einberufung hat innerhalb von vier Wochen zu erfolgen. Der Termin für die Mitgliederversammlung muss spätestens drei Monate nach Antragsdatum liegen.
+2. Eine außerordentliche Mitgliederversammlung ist einzuberufen, wenn es das Vereinsinteresse erfordert oder wenn die Einberufung von 1/3 der stimmberechtigten Mitglieder schriftlich und unter Angabe des Zwecks und der Gründe beantragt wird. Die Einberufung hat innerhalb von vier Wochen zu erfolgen. Der Termin für die Mitgliederversammlung muss spätestens drei Monate nach Antragsdatum liegen.
 
 3. Die Einberufung der Mitgliederversammlung erfolgt durch ein Mitglied des Vorstands. Die Einladung erfolgt schriftlich per Email unter Wahrung einer Frist von mindestens drei Wochen bei gleichzeitiger Bekanntgabe der Tagesordnung. Die Frist beginnt mit dem auf die Absendung des Einladungsschreibens folgenden Tag. Es gilt das Datum der Email. Das Einladungsschreiben gilt dem Mitglied als zugegangen, wenn es an die letzte vom Mitglied des Vereins schriftlich bekannt gegebene Adresse gerichtet ist. 
 
@@ -185,12 +185,7 @@ Organe des Vereins sind
 
 1. Die in Vorstandssitzungen und in Mitgliederversammlungen erfassten Beschlüsse sind schriftlich niederzulegen und vom Vorstand zu unterzeichnen.
 
-2. Alle Schriftformerfordernisse können durch digitale
-Dokumente und digitale Kommunikation erfüllt werden, falls dies nicht explizit
-ausgeschlossen ist, und wenn sie eine fortgeschrittene elektronische Signatur
-entsprechend § 2 Nr. 2 SigG als Authentizitätsnachweis besitzen. Sie können in
-diesem Fall papiergebundene Dokumente in vollem Umfang ersetzen. Die
-Signatur ersetzt hierbei die handschriftliche Unterschrift.
+2. Alle Schriftformerfordernisse können durch digitale Dokumente und digitale Kommunikation erfüllt werden, falls dies nicht explizit ausgeschlossen ist, und wenn sie eine fortgeschrittene elektronische Signatur entsprechend § 2 Nr. 2 SigG als Authentizitätsnachweis besitzen. Sie können in diesem Fall papiergebundene Dokumente in vollem Umfang ersetzen. Die Signatur ersetzt hierbei die handschriftliche Unterschrift.
 
 § 11 Auflösung des Vereins und Vermögensbindung
 -----------------------------------------------
@@ -203,11 +198,7 @@ Signatur ersetzt hierbei die handschriftliche Unterschrift.
 § 12 Inkraftreten
 -----------------
 
-Dieses Dokument ist eine inhaltlich geänderte Fassung der Satzung gemäss Beschlussfassung der Mitgliederversammlung vom 10.05.2016. 
+Dieses Dokument ist eine inhaltlich geänderte Fassung der Satzung gemäß Beschlussfassung der Mitgliederversammlung vom 10.05.2016. 
 
 Es tritt ab 11.05.2016 in Kraft und ersetzt die Satzung vom 21.07.2011.  
-
-.
-
-.
 

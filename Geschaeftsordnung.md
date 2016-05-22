@@ -57,7 +57,7 @@ Es tritt ab 11.05.2016 in Kraft.
 
     Die Satzung sieht eine variable Zahl von Mitgliedern des Vorstands vor. Die Anzahl der zu wählenden Mitglieder des Vorstands wird vor der Vorstandswahl per Akklamation in relativer Mehrheit beschlossen.
 
-    Die Wahl des Vorstandes findet stets als geheime Wahl in schriftlicher Form statt. Hierzu wird durch die Wahlleitung eine Liste mit den Namen der aufgestellten Kandidaten erstellt. Die Sortierung der Kandidaten findet in alphabetischer Reihenfolge statt, wobei der Nachname zuerst genannt wird. Namentliche Vorschläge für diese Liste können vor der Wahl durch jede stimmberechtigte Person eingereicht werden. Jede stimmberechtigte Person hat entsprechend der Anzahl an zu wählenden Mitgliedern des Vorstand Stimmen. Eine Kumulation ist nicht möglich.
+    Die Wahl des Vorstandes findet stets als geheime Wahl in schriftlicher Form statt. Hierzu wird durch die Wahlleitung eine Liste mit den Namen der aufgestellten Kandidaten erstellt. Die Sortierung der Kandidaten findet in alphabetischer Reihenfolge statt, wobei der Nachname zuerst genannt wird. Namentliche Vorschläge für diese Liste können vor der Wahl durch jede stimmberechtigte Person eingereicht werden. Jede stimmberechtigte Person hat entsprechend der Anzahl an zu wählenden Mitgliedern des Vorstands Stimmen. Eine Kumulation ist nicht möglich.
 
     Um als Mitglied des Vorstands gewählt zu werden ist eine absolute Mehrheit erforderlich.
 
@@ -71,7 +71,7 @@ Es tritt ab 11.05.2016 in Kraft.
 
     a) Das Amt des Wahlleiters wird dem Versammlungsleiter übertragen.
 
-    b) Die Durchführung von Wahlen obliegt dem Wahlleiter. Der Wahlleiter kann bis zu zwei Wahlhelfer bennen. Die Mitgliederversammlung kann dieser Benennung bei Bedarf widersprechen. In diesem Fall werde die Wahlhelfer per Akklamation mit relativer Mehrheit gewählt.
+    b) Die Durchführung von Wahlen obliegt dem Wahlleiter. Der Wahlleiter kann bis zu zwei Wahlhelfer benennen. Die Mitgliederversammlung kann dieser Benennung bei Bedarf widersprechen. In diesem Fall werde die Wahlhelfer per Akklamation mit relativer Mehrheit gewählt.
 
     c) Wahlgänge sind nicht geheim und werden per Akklamation (einfaches Handzeichen) abgestimmt, sofern dies in diesem Dokument nicht anders gefordert ist oder durch eine stimmberechtigte Person beantragt wurde.
 
@@ -83,7 +83,7 @@ Es tritt ab 11.05.2016 in Kraft.
     
 8. Personen, die nach Feststellung der Beschlussfähigkeit eintreffen, sind nicht stimmberechtigt und können, falls zugelassen, nur als Gast an der Mitgliederversammlung teilnehmen. Später eintreffende stimmberechtigte Personen können aber eine vorab ordentlich übertragene Stimme ab diesem Zeitpunkt selbst wahrnehmen.
 
-9. Ausgeübte Stimmen werden bei Abstimmungen als Enthaltung gewertet, wenn die Mitgliederversammlung vorzeitig verlassen wird und  keine schriftliche Stimmübertragung erfolt ist. Die Stimmkarte ist vor verlassen des Raumes dem Versammlungsleiter zu übergeben.
+9. Ausgeübte Stimmen werden bei Abstimmungen als Enthaltung gewertet, wenn die Mitgliederversammlung vorzeitig verlassen wird und keine schriftliche Stimmübertragung erfolt ist. Die Stimmkarte ist vor Verlassen des Raumes dem Versammlungsleiter zu übergeben.
 
 § 3 Anträge zur Änderung der Geschäftsordnung
 ---------------------------------------------
@@ -91,3 +91,4 @@ Es tritt ab 11.05.2016 in Kraft.
 Anträge zur Änderung der Geschäftsordnung sind dem Vorstand als ordentliche Anträge zu stellen.
 
 Damit ergibt sich aus der Satzung eine Antragsfrist von 14 Tagen vor dem Termin der Mitgliederversammlung.
+
