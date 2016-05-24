@@ -4,19 +4,19 @@
 # 
 # Tune margins, so dass die Unterschriften beieinander bleiben!
 
-MARGINS=geometry:"top=1.5cm, bottom=1.5cm, left=1.7cm, right=1.7cm"
-PANDOC_PDF=pandoc --latex-engine xelatex --standalone -f markdown_github -t latex -V mainfont=FreeSans -V $(MARGINS) -V fontsize=10pt -V papersize=A4
+MARGINS=geometry:"top=1.5cm, bottom=1.5cm, left=1.7cm, right=1.7cm, a4paper"
+PANDOC_PDF=pandoc --latex-engine xelatex --standalone -f markdown_github -t latex -V mainfont=FreeSans -V $(MARGINS) -V fontsize=10pt
 PANDOC_HTML=pandoc --standalone -f markdown_github -t html -V mainfont=sans
 
 all: satzung Beitrags-Gebuehrenordnung.pdf Geschaeftsordnung.pdf
 
 satzung: Satzung.html Satzung.pdf
 
-Satzung.pdf: Satzung/Satzung.md Vorstandsunterschriften.md
-	$(PANDOC_PDF) -o build/Satzung.pdf Satzung/Satzung.md Vorstandsunterschriften.md
+Satzung.pdf: Satzung.md Vorstandsunterschriften.md
+	$(PANDOC_PDF) -o build/Satzung.pdf Satzung.md Vorstandsunterschriften.md
 
-Satzung.html: Satzung/Satzung.md
-	$(PANDOC_HTML) -o build/Satzung.html Satzung/Satzung.md
+Satzung.html: Satzung.md
+	$(PANDOC_HTML) -o build/Satzung.html Satzung.md
 
 Beitrags-Gebuehrenordnung.pdf: Beitrags-Gebuehrenordnung.md
 	$(PANDOC_PDF) -o build/Beitrags-Gebuehrenordnung.pdf Beitrags-Gebuehrenordnung.md
@@ -25,5 +25,5 @@ Geschaeftsordnung.pdf: Geschaeftsordnung.md
 	$(PANDOC_PDF) -o build/Geschaeftsordnung.pdf Geschaeftsordnung.md
 
 clean:
-	rm -rf build/*
+	rm -rf build/*.pdf build/*.html
 
