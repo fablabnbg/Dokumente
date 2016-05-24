@@ -28,7 +28,7 @@ Satzung des Fab Lab Region Nürnberg e.V.
     
     c) die praktische und kreative Intelligenz Einzelner in Ergänzung zum analytischen Fokus der schulischen bzw. universitären Ausbildung stärken und so die Entdeckung und Entwicklung des eigenen kreativen Potentials fördern,
     
-    d) den Zugang zu Schlüssel-Technologie ermöglichen bzw. erleichtern und zum praktischen und kreativen Umgang mit Technologie anregen,
+    d) den Zugang zu Schlüssel-Technologien ermöglichen bzw. erleichtern und zum praktischen und kreativen Umgang mit Technologien anregen,
     
     e) das Lernen durch eigene Erfahrungen, selbstmotiviertes Lernen und das Lernen von Anderen/Peers unterstützen,
     
