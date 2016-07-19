@@ -124,7 +124,7 @@ Organe des Vereins sind
 
 1. Die Mitgliederversammlung ist einmal jährlich einzuberufen. 
 
-2. Eine außerordentliche Mitgliederversammlung ist einzuberufen, wenn es das Vereinsinteresse erfordert oder wenn die Einberufung von 1/3 der stimmberechtigten Mitglieder schriftlich und unter Angabe des Zwecks und der Gründe beantragt wird. Die Einberufung hat innerhalb von vier Wochen zu erfolgen. Der Termin für die Mitgliederversammlung muss spätestens drei Monate nach Antragsdatum liegen.
+2. Eine außerordentliche Mitgliederversammlung ist einzuberufen, wenn es das Vereinsinteresse erfordert oder wenn die Einberufung von 1/3 der Mitglieder schriftlich und unter Angabe des Zwecks und der Gründe beantragt wird. Die Einberufung hat innerhalb von vier Wochen zu erfolgen. Der Termin für die Mitgliederversammlung muss spätestens drei Monate nach Antragsdatum liegen.
 
 3. Die Einberufung der Mitgliederversammlung erfolgt durch ein Mitglied des Vorstands. Die Einladung erfolgt schriftlich per Email unter Wahrung einer Frist von mindestens drei Wochen bei gleichzeitiger Bekanntgabe der Tagesordnung. Die Frist beginnt mit dem auf die Absendung des Einladungsschreibens folgenden Tag. Es gilt das Datum der Email. Das Einladungsschreiben gilt dem Mitglied als zugegangen, wenn es an die letzte vom Mitglied des Vereins schriftlich bekannt gegebene Adresse gerichtet ist. 
 
