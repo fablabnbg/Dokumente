@@ -39,7 +39,5 @@ Es tritt ab 11.05.2016 in Kraft und ersetzt die Beitragsordnung vom 01.04.2015.
 | Mahngebühr für dritte Mahnung     |  25 €  |
 | Verlust des Mitgliedsausweises    |  15 €  |
 
-<<<<<<< HEAD
-=======
 Die Gebühren werden nach schriftlicher Mitteilung per Bankeinzug erhoben.
->>>>>>> c80fb7aac1b948f050ab10583d5c7e1733d46c5d
+
