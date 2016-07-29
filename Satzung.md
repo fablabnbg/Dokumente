@@ -16,7 +16,7 @@ Satzung des Fab Lab Region Nürnberg e.V.
 § 2 Vereinszweck
 ----------------
 
-1. Der Verein verfolgt ausschließlich und unmittelbar Gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung (§§ 51ff) in der jeweils gültigen Fassung.
+1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung (§§ 51ff) in der jeweils gültigen Fassung.
 
 2. Der Zweck des Fab Lab Region Nürnberg e.V. ist die Schaffung einer offenen Plattform für Lernen und Kreativität im Bereich Technik in der Region Nürnberg mit niederschwelligen Angeboten zur Förderung von Neugier, komplexem Denken und Handeln, Teamfähigkeit und interkultureller Kompetenz an den Schnittstellen von Technologie, Kunst, Design und Entrepreneurship.
 
@@ -28,7 +28,7 @@ Satzung des Fab Lab Region Nürnberg e.V.
     
     c) die praktische und kreative Intelligenz Einzelner in Ergänzung zum analytischen Fokus der schulischen bzw. universitären Ausbildung stärken und so die Entdeckung und Entwicklung des eigenen kreativen Potentials fördern,
     
-    d) den Zugang zu (Schlüssel)Technologie ermöglichen bzw. erleichtern und zum praktischen und kreativen Umgang mit Technologie anregen,
+    d) den Zugang zu Schlüssel-Technologien ermöglichen bzw. erleichtern und zum praktischen und kreativen Umgang mit Technologien anregen,
     
     e) das Lernen durch eigene Erfahrungen, selbstmotiviertes Lernen und das Lernen von Anderen/Peers unterstützen,
     
@@ -47,7 +47,7 @@ Satzung des Fab Lab Region Nürnberg e.V.
 
 2. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder des Vereins dürfen in ihrer Eigenschaft als Mitglieder keine Zuwendungen aus Mitteln des Vereins erhalten.   
 
-3. Die Mitglieder dürfen bei ihrem Ausscheiden oder bei  Auflösung oder Aufhebung des Vereins keine Anteile des Vereinsvermögens erhalten.  
+3. Die Mitglieder dürfen bei ihrem Ausscheiden oder bei Auflösung oder Aufhebung des Vereins keine Anteile des Vereinsvermögens erhalten.  
 
 4. Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden. 
 
@@ -125,7 +125,7 @@ Organe des Vereins sind
 
 1. Die Mitgliederversammlung ist einmal jährlich einzuberufen. 
 
-2. Eine außerordentliche Mitgliederversammlung ist einzuberufen, wenn es das Vereinsinteresse erfordert oder wenn die Einberufung von 1/3 der stimmberechtigten Mitglieder schriftlich und unter Angabe des Zweckes und der Gründe beantragt wird. Die Einberufung hat innerhalb von vier Wochen zu erfolgen. Der Termin für die Mitgliederversammlung muss spätestens drei Monate nach Antragsdatum liegen.
+2. Eine außerordentliche Mitgliederversammlung ist einzuberufen, wenn es das Vereinsinteresse erfordert oder wenn die Einberufung von 1/3 der Mitglieder schriftlich und unter Angabe des Zwecks und der Gründe beantragt wird. Die Einberufung hat innerhalb von vier Wochen zu erfolgen. Der Termin für die Mitgliederversammlung muss spätestens drei Monate nach Antragsdatum liegen.
 
 3. Die Einberufung der Mitgliederversammlung erfolgt durch ein Mitglied des Vorstands. Die Einladung erfolgt schriftlich per Email unter Wahrung einer Frist von mindestens drei Wochen bei gleichzeitiger Bekanntgabe der Tagesordnung. Die Frist beginnt mit dem auf die Absendung des Einladungsschreibens folgenden Tag. Es gilt das Datum der Email. Das Einladungsschreiben gilt dem Mitglied als zugegangen, wenn es an die letzte vom Mitglied des Vereins schriftlich bekannt gegebene Adresse gerichtet ist. 
 
@@ -198,9 +198,12 @@ Organe des Vereins sind
 .
 .
 
-Nürnberg, XX.XX.XXXX  
+§ 12 Inkraftreten
+-----------------
 
+Dieses Dokument ist eine inhaltlich geänderte Fassung der Satzung gemäß Beschlussfassung der Mitgliederversammlung vom 10.05.2016. 
 
+<<<<<<< HEAD:Satzung/Satzung.md
 .
 .
 
@@ -223,4 +226,7 @@ Mitglied des Vorstands: Michael Mosburger
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Mitglied des Vorstands: Felix Schreiner
+=======
+Es tritt ab 11.05.2016 in Kraft und ersetzt die Satzung vom 21.07.2011.  
+>>>>>>> c80fb7aac1b948f050ab10583d5c7e1733d46c5d:Satzung.md
 

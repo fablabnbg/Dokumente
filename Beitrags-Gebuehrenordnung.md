@@ -1,8 +1,8 @@
 Beitrag- und Gebührenordnung des Fab Lab Region Nürnberg e. V.
 ==============================================================
 
-§ 1 Geltungsbereich
--------------------
+§ 1 Allgemeines
+---------------
 
 Dieses Dokument definiert Beiträge und Gebühren für Mitglieder des Fab Lab Region Nürnberg e. V.
 
@@ -13,14 +13,14 @@ Es tritt ab 11.05.2016 in Kraft und ersetzt die Beitragsordnung vom 01.04.2015.
 
 1. Ordentliche Mitglieder leisten regulär einen Beitrag in Höhe von 25 € pro Monat.
 
-    Ein Mitglied kann sich für eine "Mitgliedschaft Plus" entscheiden und einen erhöhten Beitrag von 40 € pro Monat leisten. !HIER FEHLT NOCH EINE GUTE ERKLÄRUNG!
+    Ein Mitglied kann sich für eine "Mitgliedschaft Plus" entscheiden und einen Beitrag von 40 € pro Monat leisten. Hierdurch können zusätzlich ein zweiter Erwachsener, der in enger persönlicher Beziehung steht, sowie verwandte Kinder unter 18 Jahren durch Antragstellung namentlich mit erfasst werden.
 
 
     Ein reduzierter Beitrag in Höhe von 10 € pro Monat ist für Schüler, Studenten, Rentner, Arbeitssuchende und Behinderte vorgesehen. Ein entsprechender Nachweis ist jährlich vorzulegen.
 
 2. Fördermitglieder leisten einen beliebigen Beitrag, jedoch mindestens 2 € pro Monat.
 
-3. Die Beiträge sind im Voraus zu leisten und werden durch Bankeinzug monatlich erhoben. Wahlweise ist eine jährliche Zahlung möglich. In diesem Fall reduziert sich die Beitragssumme um einen Monatsbeitrag. Förderbeiträge sind von dieser Regelung ausgenommen.
+3. Die Beiträge sind monatlich im Voraus fällig. Wahlweise ist eine jährliche Zahlung möglich. In diesem Fall reduziert sich die Beitragssumme um einen Monatsbeitrag. Förderbeiträge sind von dieser Regelung ausgenommen. Die Beiträge werden durch Bankeinzug erhoben.
 
 4. Beiträge bis 5 € pro Monat werden ausschließlich jährlich erhoben. Eine Vergünstigung ist in diesem Fall nicht vorgesehen.
 
@@ -39,3 +39,7 @@ Es tritt ab 11.05.2016 in Kraft und ersetzt die Beitragsordnung vom 01.04.2015.
 | Mahngebühr für dritte Mahnung     |  25 €  |
 | Verlust des Mitgliedsausweises    |  15 €  |
 
+<<<<<<< HEAD
+=======
+Die Gebühren werden nach schriftlicher Mitteilung per Bankeinzug erhoben.
+>>>>>>> c80fb7aac1b948f050ab10583d5c7e1733d46c5d
