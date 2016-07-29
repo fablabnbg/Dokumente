@@ -1,6 +1,7 @@
 # One Makefile to rule them all
 #
 # sudo apt-get install pandoc texlive-xetex
+# sudo apt-get install texlive-fonts-recommended lmodern etoolbox
 # 
 # Tune margins, so dass die Unterschriften beieinander bleiben!
 
