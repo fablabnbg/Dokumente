@@ -201,7 +201,8 @@ Organe des Vereins sind
 § 12 Inkraftreten
 -----------------
 
-Dieses Dokument ist eine inhaltlich geänderte Fassung der Satzung gemäß Beschlussfassung der Mitgliederversammlung vom 10.05.2016. 
+Dieses Dokument ist eine inhaltlich geänderte Fassung der Satzung gemäß Beschlussfassung der Mitgliederversammlung vom 10.05.2016.
+Mit Änderung aus formalen Gründen nach § 9 Nr. 2 dieser Satzung durch den Vorstand, gemäß der Vorstandssitzung vom 26.07.2016.
 
 Es tritt ab 11.05.2016 in Kraft und ersetzt die Satzung vom 21.07.2011.  
 
