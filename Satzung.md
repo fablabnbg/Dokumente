@@ -10,7 +10,7 @@ Satzung des Fab Lab Region Nürnberg e.V.
 
 3. Er soll in das Vereinsregister eingetragen werden. 
 
-4. Geschäftsjahr ist das Kalenderjahr. 
+4. Geschäftsjahr ist das monatlich. 
 
 
 § 2 Vereinszweck
