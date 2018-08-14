@@ -13,7 +13,7 @@ Es tritt ab 11.05.2016 in Kraft und ersetzt die Beitragsordnung vom 01.04.2015.
 
 1. Ordentliche Mitglieder leisten regulär einen Beitrag in Höhe von 25 € pro Monat.
 
-   Ein reduzierter Beitrag in Höhe von 10 € pro Monat ist für Schüler, Studenten, Rentner, Arbeitssuchende und Behinderte vorgesehen. Ein entsprechender Nachweis ist jährlich vorzulegen. Des weiteren besteht die Möglichkeit, einen reduzierten Beitrag in Anspruch zu nehmen, wenn bereits eine in familiärer oder eheähnlicher Beziehung stehende Person ordentliches Mitglied im Verein ist.
+    Ein reduzierter Beitrag in Höhe von 10 € pro Monat ist für Schüler, Studenten, Rentner, Arbeitssuchende und Behinderte vorgesehen. Ein entsprechender Nachweis ist jährlich vorzulegen. Des weiteren besteht die Möglichkeit, einen reduzierten Beitrag in Anspruch zu nehmen, wenn bereits eine in familiärer oder eheähnlicher Beziehung stehende Person ordentliches Mitglied im Verein ist.
 
 2. Fördermitglieder leisten einen beliebigen Beitrag, jedoch mindestens 2 € pro Monat.
 
