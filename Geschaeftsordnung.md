@@ -81,7 +81,7 @@ Es tritt ab 11.05.2016 in Kraft.
     
 7. Personen, die nach Feststellung der Beschlussfähigkeit eintreffen, sind nicht stimmberechtigt und können, falls zugelassen, nur als Gast an der Mitgliederversammlung teilnehmen. Später eintreffende stimmberechtigte Personen können aber eine vorab ordentlich übertragene Stimme ab diesem Zeitpunkt selbst wahrnehmen.
 
-8. Ausgeübte Stimmen werden bei Abstimmungen als Enthaltung gewertet, wenn die Mitgliederversammlung vorzeitig verlassen wird und keine schriftliche Stimmübertragung erfolt ist. Die Stimmkarte ist vor Verlassen des Raumes dem Versammlungsleiter zu übergeben.
+8. Ausgeübte Stimmen werden bei Abstimmungen als Enthaltung gewertet, wenn die Mitgliederversammlung vorzeitig verlassen wird und keine schriftliche Stimmübertragung erfolgt ist. Die Stimmkarte ist vor Verlassen des Raumes dem Versammlungsleiter zu übergeben.
 
 § 3 Anträge zur Änderung der Geschäftsordnung
 ---------------------------------------------
