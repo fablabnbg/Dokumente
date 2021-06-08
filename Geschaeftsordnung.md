@@ -34,12 +34,10 @@ Es tritt ab 11.05.2016 in Kraft.
     f) Geschäftsbericht des Vorstandes/Geschäftsführers mit Aussprache
 
     g) Bericht der Rechnungsprüfer
+    
+    h) Entlastung des Vorstands per Akklamation in absoluter Mehrheit
 
-    h) Entlastung der Rechnungsprüfer per Akklamation in absoluter Mehrheit
-
-    i) Wahl der neuen Rechnungsprüfer per Akklamation in relativer Mehrheit
-
-    j) Entlastung des Vorstands per Akklamation in absoluter Mehrheit
+    i) Wahl der neuen Rechnungsprüfer per Akklamation in relativer Mehrheit 
      
     ⋮  
     ⋮ *weitere Tagesordnungspunkte der jeweiligen Mitgliederversammlung*  
