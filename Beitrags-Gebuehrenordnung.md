@@ -17,7 +17,7 @@ Es tritt ab 09.05.2018 in Kraft und ersetzt die Beitragsordnung vom 11.05.2016.
 
 2. Fördermitglieder leisten einen beliebigen Beitrag, jedoch mindestens 2 € pro Monat.
 
-3. Die Beiträge sind monatlich im Voraus fällig. Wahlweise ist eine jährliche Zahlung möglich. In diesem Fall reduziert sich die Beitragssumme um einen Monatsbeitrag. Förderbeiträge sind von dieser Regelung ausgenommen. Die Beiträge werden durch Bankeinzug erhoben.
+3. Die Beiträge sind monatlich und im Voraus fällig. Wahlweise ist eine jährliche Zahlung im Voraus möglich. In diesem Fall reduziert sich die Beitragssumme um einen Monatsbeitrag. Förderbeiträge sind von dieser Regelung ausgenommen. Die Beiträge werden durch Bankeinzug erhoben.
 
 4. Beiträge bis 5 € pro Monat werden ausschließlich jährlich erhoben. Eine Vergünstigung ist in diesem Fall nicht vorgesehen.
 
