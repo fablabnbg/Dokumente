@@ -3,7 +3,7 @@
 
 
 
-Nürnberg, den \_\_.\_\_.\_\_\_\_  
+Fürth, den \_\_.\_\_.\_\_\_\_  
 
 .
 .
@@ -12,7 +12,7 @@ Nürnberg, den \_\_.\_\_.\_\_\_\_
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Vorsitzender des Vorstands: Michael Mosburger  
+Vorsitzender des Vorstands: Roland Möltner  
 
 .
 .
@@ -20,7 +20,7 @@ Vorsitzender des Vorstands: Michael Mosburger
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Mitglied des Vorstands: Felix Schreiner  
+Mitglied des Vorstands: Jürgen Halbritter  
 
 .
 .
@@ -28,6 +28,22 @@ Mitglied des Vorstands: Felix Schreiner
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Mitglied des Vorstands: Rolf Nietzer
+Mitglied des Vorstands: Nikolas Metz
 
 
+.
+.
+      
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Mitglied des Vorstands: Ian Hubbertz
+
+
+.
+.
+      
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Mitglied des Vorstands: Tobias Bozin
