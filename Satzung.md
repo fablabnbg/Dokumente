@@ -8,7 +8,7 @@ Satzung des Fab Lab Region Nürnberg e.V.
 
 2. Er hat den Sitz in Nürnberg. 
 
-3. Er soll in das Vereinsregister eingetragen werden. 
+3. Er ist in das Vereinsregister eingetragen. 
 
 4. Geschäftsjahr ist das Kalenderjahr. 
 
@@ -64,11 +64,11 @@ Satzung des Fab Lab Region Nürnberg e.V.
 
 3. Über den Antrag auf Aufnahme in den Verein entscheidet der Vorstand.
 
-4. Bei Zustimmung des Vorstandes zu einer Mitgliedschaft beginnt diese mit ein Mitgliedschaft auf Probe für den Zeitraum von 4 Monaten. In dieser Zeit kann die Mitgliedschaft ohne Angabe von Gründen von beiden Seiten mit einer Kündigungsfrist von 14 Tagen zum jeweiligen Monatsletzten widerrufen werden. Nach Ablauf der Probezeit geht die Mitgliedschaft ohne weitere Formalität in eine reguläre Mitgliedschaft über.
+4. Bei Zustimmung des Vorstandes zu einer Mitgliedschaft beginnt diese mit ein Mitgliedschaft auf Probe für den Zeitraum von 4 Monaten. In dieser Zeit kann die Mitgliedschaft ohne Angabe von Gründen von beiden Seiten mit einer Frist von 14 Tagen zum jeweiligen Monatsletzten gekündigt werden. Nach Ablauf der Probezeit geht die Mitgliedschaft ohne weitere Formalität in eine reguläre Mitgliedschaft über.
 
 5. Die Mitgliedschaft endet durch Austritt, Ausschluss oder Tod.
 
-6. Der Austritt eines Mitgliedes ist nur zum Quartalsende möglich. Er erfolgt durch schriftliche Erklärung gegenüber dem Vorsitzenden unter Einhaltung einer Frist von einem Monat.
+6. Der Austritt eines Mitgliedes ist nur zum Quartalsende möglich. Er erfolgt durch schriftliche Erklärung gegenüber dem Vorstand unter Einhaltung einer Frist von einem Monat.
 
 7. Wenn ein Mitglied gegen die Ziele und Interessen des Vereins schwer verstoßen hat oder trotz Mahnung mit dem Beitrag für drei Monate im Verzug ist, so kann es durch den Vorstand mit sofortiger Wirkung ausgeschlossen werden.
 
