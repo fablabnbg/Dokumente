@@ -6,7 +6,7 @@ Geschäftsordnung des Fab Lab Region Nürnberg e. V.
 
 Dieses Dokument gilt in Ergänzung der Satzung des Fab Lab Region Nürnberg e. V.
 
-Es tritt ab 11.05.2016 in Kraft.
+Es tritt ab xx.06.2023 in Kraft.
 
 § 2 Mitgliederversammlung
 -------------------------
@@ -35,7 +35,7 @@ Es tritt ab 11.05.2016 in Kraft.
 
     g) Bericht der Rechnungsprüfer
 
-    h) Entlastung der Rechnungsprüfer per Akklamation in absoluter Mehrheit
+    h) -gestrichen-
 
     i) Wahl der neuen Rechnungsprüfer per Akklamation in relativer Mehrheit
 
