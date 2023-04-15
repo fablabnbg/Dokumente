@@ -64,17 +64,19 @@ Satzung des Fab Lab Region Nürnberg e.V.
 
 3. Über den Antrag auf Aufnahme in den Verein entscheidet der Vorstand.
 
-4. Die Mitgliedschaft endet durch Austritt, Ausschluss oder Tod.
+4. Bei Zustimmung des Vorstandes zu einer Mitgliedschaft beginnt diese mit ein Mitgliedschaft auf Probe für den Zeitraum von 4 Monaten. In dieser Zeit kann die Mitgliedschaft ohne Angabe von Gründen von beiden Seiten mit einer Kündigungsfrist von 14 Tagen zum jeweiligen Monatsletzten widerrufen werden. Nach Ablauf der Probezeit geht die Mitgliedschaft ohne weitere Formalität in eine reguläre Mitgliedschaft über.
 
-5. Der Austritt eines Mitgliedes ist nur zum Quartalsende möglich. Er erfolgt durch schriftliche Erklärung gegenüber dem Vorsitzenden unter Einhaltung einer Frist von einem Monat.
+5. Die Mitgliedschaft endet durch Austritt, Ausschluss oder Tod.
 
-6. Wenn ein Mitglied gegen die Ziele und Interessen des Vereins schwer verstoßen hat oder trotz Mahnung mit dem Beitrag für drei Monate im Verzug ist, so kann es durch den Vorstand mit sofortiger Wirkung ausgeschlossen werden.
+6. Der Austritt eines Mitgliedes ist nur zum Quartalsende möglich. Er erfolgt durch schriftliche Erklärung gegenüber dem Vorsitzenden unter Einhaltung einer Frist von einem Monat.
+
+7. Wenn ein Mitglied gegen die Ziele und Interessen des Vereins schwer verstoßen hat oder trotz Mahnung mit dem Beitrag für drei Monate im Verzug ist, so kann es durch den Vorstand mit sofortiger Wirkung ausgeschlossen werden.
 
     Dem Mitglied muss vor der Beschlussfassung Gelegenheit zur Rechtfertigung bzw. Stellungnahme gegeben werden.
 
     Gegen den Ausschließungsbeschluss kann innerhalb einer Frist von drei Wochen nach Mitteilung des Ausschlusses Berufung eingelegt werden, über den die nächste Mitgliederversammlung entscheidet.
 
-7. Jedes ordentliche Mitglied, welches das 18. Lebensjahr vollendet hat, hat eine Stimme und kann in Vereinsämter gewählt werden.
+8. Jedes ordentliche Mitglied, welches das 18. Lebensjahr vollendet hat, hat eine Stimme und kann in Vereinsämter gewählt werden.
 
 § 5 Beiträge
 ------------
@@ -100,6 +102,8 @@ Organe des Vereins sind
 1. Der Vorstand besteht aus zwei bis fünf Mitgliedern. Über die Zahl der Mitglieder des Vorstands beschließt die Mitgliederversammlung bei der Wahl des Vorstands.
 
     Er vertritt den Verein gerichtlich und außergerichtlich. Besteht der Vorstand aus zwei oder drei Mitgliedern, so sind je zwei Mitglieder, bei vier oder fünf Mitgliedern sind je drei Mitglieder des Vorstands gemeinsam vertretungsberechtigt.
+
+Abweichend davon sind vom Vorstand durch einfache Mehrheit bestimmte und protokollierte Personen jeweils einzeln gegenüber Kreditinstituten vertretungsberechtigt und verfügungsberechtigt.
 
 2. Der Vorstand wird von der Mitgliederversammlung für die Dauer von zwei Jahren gewählt. Die Wiederwahl der Mitglieder des Vorstands ist möglich.
 
@@ -201,8 +205,8 @@ Organe des Vereins sind
 § 12 Inkraftreten
 -----------------
 
-Dieses Dokument ist eine inhaltlich geänderte Fassung der Satzung gemäß Beschlussfassung der Mitgliederversammlung vom 10.05.2016.
+Dieses Dokument ist eine inhaltlich geänderte Fassung der Satzung gemäß Beschlussfassung der Mitgliederversammlung vom xx.06.2023.
 Mit Änderung aus formalen Gründen nach § 9 Nr. 2 dieser Satzung durch den Vorstand, gemäß der Vorstandssitzung vom 26.07.2016.
 
-Es tritt ab 11.05.2016 in Kraft und ersetzt die Satzung vom 21.07.2011.  
+Es tritt ab xx.06.2023 in Kraft und ersetzt die Satzung vom 26.07.2016.  
 
