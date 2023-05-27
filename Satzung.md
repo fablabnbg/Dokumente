@@ -203,8 +203,7 @@ Abweichend davon sind vom Vorstand durch einfache Mehrheit bestimmte und protoko
 § 12 Inkraftreten
 -----------------
 
-Dieses Dokument ist eine inhaltlich geänderte Fassung der Satzung gemäß Beschlussfassung der Mitgliederversammlung vom xx.06.2023.
-Mit Änderung aus formalen Gründen nach § 9 Nr. 2 dieser Satzung durch den Vorstand, gemäß der Vorstandssitzung vom 26.07.2016.
+Dieses Dokument ist eine inhaltlich geänderte Fassung der Satzung gemäß Beschlussfassung der Mitgliederversammlung vom 20.06.2023.
 
-Es tritt ab xx.06.2023 in Kraft und ersetzt die Satzung vom 26.07.2016.  
+Es tritt ab 20.06.2023 in Kraft und ersetzt die Satzung vom 26.07.2016.  
 
