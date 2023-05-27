@@ -6,7 +6,7 @@ Geschäftsordnung des Fab Lab Region Nürnberg e. V.
 
 Dieses Dokument gilt in Ergänzung der Satzung des Fab Lab Region Nürnberg e. V.
 
-Es tritt ab xx.06.2023 in Kraft.
+Es tritt ab 20.06.2023 in Kraft.
 
 § 2 Mitgliederversammlung
 -------------------------
