@@ -62,21 +62,19 @@ Satzung des Fab Lab Region Nürnberg e.V.
 
     * Fördermitglieder
 
-3. Über den Antrag auf Aufnahme in den Verein entscheidet der Vorstand.
+3. Bei Zustimmung des Vorstandes zu einer Mitgliedschaft beginnt diese mit einer Mitgliedschaft auf Probe. Der früheste Beginn ist der 01. des darauf folgenden Monats. Die Probemitgliedschaft besteht für den Zeitraum von 4 Monaten. In dieser Zeit kann die Mitgliedschaft ohne Angabe von Gründen von beiden Seiten mit einer Frist von 14 Tagen zum jeweiligen Monatsletzten gekündigt werden. Nach Ablauf der Probezeit geht die Mitgliedschaft ohne weitere Formalität in eine reguläre Mitgliedschaft über.
 
-4. Bei Zustimmung des Vorstandes zu einer Mitgliedschaft beginnt diese mit einer Mitgliedschaft auf Probe. Der früheste Beginn ist der 01. des darauf folgenden Monats. Die Probemitgliedschaft besteht für den Zeitraum von 4 Monaten. In dieser Zeit kann die Mitgliedschaft ohne Angabe von Gründen von beiden Seiten mit einer Frist von 14 Tagen zum jeweiligen Monatsletzten gekündigt werden. Nach Ablauf der Probezeit geht die Mitgliedschaft ohne weitere Formalität in eine reguläre Mitgliedschaft über.
+4. Die Mitgliedschaft endet durch Austritt, Ausschluss oder Tod.
 
-5. Die Mitgliedschaft endet durch Austritt, Ausschluss oder Tod.
+5. Der Austritt eines Mitgliedes ist nur zum Quartalsende möglich. Er erfolgt durch schriftliche Erklärung gegenüber dem Vorstand unter Einhaltung einer Frist von einem Monat.
 
-6. Der Austritt eines Mitgliedes ist nur zum Quartalsende möglich. Er erfolgt durch schriftliche Erklärung gegenüber dem Vorstand unter Einhaltung einer Frist von einem Monat.
-
-7. Wenn ein Mitglied gegen die Ziele und Interessen des Vereins schwer verstoßen hat oder trotz Mahnung mit dem Beitrag für drei Monate im Verzug ist, so kann es durch den Vorstand mit sofortiger Wirkung ausgeschlossen werden.
+6. Wenn ein Mitglied gegen die Ziele und Interessen des Vereins schwer verstoßen hat oder trotz Mahnung mit dem Beitrag für drei Monate im Verzug ist, so kann es durch den Vorstand mit sofortiger Wirkung ausgeschlossen werden.
 
     Dem Mitglied muss vor der Beschlussfassung Gelegenheit zur Rechtfertigung bzw. Stellungnahme gegeben werden.
 
     Gegen den Ausschließungsbeschluss kann innerhalb einer Frist von drei Wochen nach Mitteilung des Ausschlusses Berufung eingelegt werden, über den die nächste Mitgliederversammlung entscheidet.
 
-8. Jedes ordentliche Mitglied, welches das 18. Lebensjahr vollendet hat, hat eine Stimme und kann in Vereinsämter gewählt werden.
+7. Jedes ordentliche Mitglied, welches das 18. Lebensjahr vollendet hat, hat eine Stimme und kann in Vereinsämter gewählt werden.
 
 § 5 Beiträge
 ------------
