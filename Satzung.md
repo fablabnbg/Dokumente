@@ -66,7 +66,7 @@ Satzung des Fab Lab Region Nürnberg e.V.
 
 4. Die Mitgliedschaft endet durch Austritt, Ausschluss oder Tod.
 
-5. Der Austritt eines Mitgliedes ist nur zum Quartalsende möglich. Er erfolgt durch schriftliche Erklärung gegenüber dem Vorstand unter Einhaltung einer Frist von einem Monat.
+5. Der Austritt eines regulären Mitgliedes ist nur zum Quartalsende möglich. Er erfolgt durch schriftliche Erklärung gegenüber dem Vorstand unter Einhaltung einer Frist von einem Monat.
 
 6. Wenn ein Mitglied gegen die Ziele und Interessen des Vereins schwer verstoßen hat oder trotz Mahnung mit dem Beitrag für drei Monate im Verzug ist, so kann es durch den Vorstand mit sofortiger Wirkung ausgeschlossen werden.
 
