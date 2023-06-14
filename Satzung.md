@@ -139,7 +139,7 @@ Abweichend davon sind vom Vorstand durch einfache Mehrheit bestimmte und protoko
 
     Ihr sind insbesondere die Jahresrechnung und der Jahresbericht zur Beschlussfassung über die Genehmigung und die Entlastung des Vorstands schriftlich vorzulegen.
 
-    Sie bestellt zwei Rechnungsprüfer, die weder dem Vorstand noch einem vom Vorstand berufenen Gremium angehören und auch nicht Angestellte des Vereins sein dürfen, um die Buchführung einschließlich Jahresabschluss zu prüfen und über das Ergebnis vor der Mitgliederversammlung zu berichten. Zu den Aufgaben der Rechnungsprüfer gehört nicht die Prüfung der Zweckmäßigkeit der Mittelverwendung.
+    Sie bestellt mindestens zwei Rechnungsprüfer, die weder dem Vorstand noch einem vom Vorstand berufenen Gremium angehören und auch nicht Angestellte des Vereins sein dürfen, um die Buchführung einschließlich Jahresabschluss zu prüfen und über das Ergebnis vor der Mitgliederversammlung zu berichten. Zu den Aufgaben der Rechnungsprüfer gehört nicht die Prüfung der Zweckmäßigkeit der Mittelverwendung.
 
     Im Innenverhältnis entscheidet die Mitgliederversammlung z. B. auch über
 
