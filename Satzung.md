@@ -200,7 +200,7 @@ Abweichend davon sind vom Vorstand durch einfache Mehrheit bestimmte und protoko
 .
 .
 
-§ 12 Inkraftreten
+§ 12 Inkrafttreten
 -----------------
 
 Dieses Dokument ist eine inhaltlich geänderte Fassung der Satzung gemäß Beschlussfassung der Mitgliederversammlung vom 20.06.2023.
