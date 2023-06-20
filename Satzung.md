@@ -101,7 +101,7 @@ Organe des Vereins sind
 
     Er vertritt den Verein gerichtlich und außergerichtlich. Besteht der Vorstand aus zwei oder drei Mitgliedern, so sind je zwei Mitglieder, bei vier oder fünf Mitgliedern sind je drei Mitglieder des Vorstands gemeinsam vertretungsberechtigt.
 
-Abweichend davon sind vom Vorstand durch einfache Mehrheit bestimmte und protokollierte Personen jeweils einzeln gegenüber Kreditinstituten vertretungsberechtigt und verfügungsberechtigt.
+Abweichend davon sind vom Vorstand durch einfache Mehrheit bestimmte und protokollierte Personen jeweils einzeln gegenüber Kreditinstituten im Außenverhältnis vertretungsberechtigt und verfügungsberechtigt.
 
 2. Der Vorstand wird von der Mitgliederversammlung für die Dauer von zwei Jahren gewählt. Die Wiederwahl der Mitglieder des Vorstands ist möglich.
 
