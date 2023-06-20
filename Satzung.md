@@ -62,11 +62,11 @@ Satzung des Fab Lab Region Nürnberg e.V.
 
     * Fördermitglieder
 
-3. Bei Zustimmung des Vorstandes zu einer Mitgliedschaft beginnt diese mit einer ordentlichen Mitgliedschaft auf Probe. Der früheste Beginn ist der 01. des darauf folgenden Monats. Die Probemitgliedschaft besteht für den Zeitraum von 4 Monaten. In dieser Zeit kann die Mitgliedschaft ohne Angabe von Gründen von beiden Seiten mit einer Frist von 14 Tagen zum jeweiligen Monatsletzten gekündigt werden. Nach Ablauf der Probezeit geht die Mitgliedschaft ohne weitere Formalität in eine ordentliche Mitgliedschaft über.
+3. Bei Zustimmung des Vorstandes zu einer Mitgliedschaft beginnt diese mit einer ordentlichen Mitgliedschaft auf Probe. Der früheste Beginn ist der 01. des darauf folgenden Monats. Die Probemitgliedschaft besteht für den Zeitraum von 4 Monaten. In dieser Zeit kann die Mitgliedschaft ohne Angabe von Gründen von beiden Seiten mit einer Frist von 14 Tagen zum jeweiligen Monatsletzten gekündigt werden. Nach Ablauf der Probezeit geht die Mitgliedschaft ohne weitere Formalität in eine Mitgliedschaft mit regulären Kündigungsfrist über.
 
 4. Die Mitgliedschaft endet durch Austritt, Ausschluss oder Tod.
 
-5. Der Austritt eines regulären Mitgliedes ist nur zum Quartalsende möglich. Er erfolgt durch Erklärung in Textform gegenüber dem Vorstand unter Einhaltung einer Frist von einem Monat.
+5. Der Austritt eines Mitgliedes ist nur zum Quartalsende möglich. Er erfolgt durch Erklärung in Textform gegenüber dem Vorstand unter Einhaltung einer Frist von einem Monat.
 
 6. Wenn ein Mitglied gegen die Ziele und Interessen des Vereins schwer verstoßen hat oder trotz Mahnung mit dem Beitrag für drei Monate im Verzug ist, so kann es durch den Vorstand mit sofortiger Wirkung ausgeschlossen werden.
 
