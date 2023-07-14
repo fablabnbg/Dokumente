@@ -28,7 +28,7 @@ Mitglied des Vorstands: Jürgen Halbritter
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Mitglied des Vorstands: Nikolas Metz
+Mitglied des Vorstands: Nicolas Metz
 
 
 .
