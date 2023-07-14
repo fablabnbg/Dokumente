@@ -8,7 +8,7 @@ Satzung des Fab Lab Region Nürnberg e.V.
 
 2. Er hat den Sitz in Nürnberg. 
 
-3. Er soll in das Vereinsregister eingetragen werden. 
+3. Er ist in das Vereinsregister eingetragen. 
 
 4. Geschäftsjahr ist das Kalenderjahr. 
 
@@ -62,11 +62,11 @@ Satzung des Fab Lab Region Nürnberg e.V.
 
     * Fördermitglieder
 
-3. Über den Antrag auf Aufnahme in den Verein entscheidet der Vorstand.
+3. Bei Zustimmung des Vorstandes zu einer Mitgliedschaft beginnt diese mit einer ordentlichen Mitgliedschaft auf Probe. Der früheste Beginn ist der 01. des darauf folgenden Monats. Die Probemitgliedschaft besteht für den Zeitraum von 4 Monaten. In dieser Zeit kann die Mitgliedschaft ohne Angabe von Gründen durch das Mitglied oder seitens des Vereins durch Vorstandsbeschluss mit einer Frist von 14 Tagen zum jeweiligen Monatsletzten gekündigt werden. Nach Ablauf der Probezeit geht die Mitgliedschaft in eine Mitgliedschaft mit regulärer Kündigungsfrist über.
 
 4. Die Mitgliedschaft endet durch Austritt, Ausschluss oder Tod.
 
-5. Der Austritt eines Mitgliedes ist nur zum Quartalsende möglich. Er erfolgt durch schriftliche Erklärung gegenüber dem Vorsitzenden unter Einhaltung einer Frist von einem Monat.
+5. Der Austritt eines Mitgliedes ist nur zum Quartalsende möglich. Er erfolgt durch Erklärung in Textform gegenüber dem Vorstand unter Einhaltung einer Frist von einem Monat.
 
 6. Wenn ein Mitglied gegen die Ziele und Interessen des Vereins schwer verstoßen hat oder trotz Mahnung mit dem Beitrag für drei Monate im Verzug ist, so kann es durch den Vorstand mit sofortiger Wirkung ausgeschlossen werden.
 
@@ -100,6 +100,8 @@ Organe des Vereins sind
 1. Der Vorstand besteht aus zwei bis fünf Mitgliedern. Über die Zahl der Mitglieder des Vorstands beschließt die Mitgliederversammlung bei der Wahl des Vorstands.
 
     Er vertritt den Verein gerichtlich und außergerichtlich. Besteht der Vorstand aus zwei oder drei Mitgliedern, so sind je zwei Mitglieder, bei vier oder fünf Mitgliedern sind je drei Mitglieder des Vorstands gemeinsam vertretungsberechtigt.
+
+Abweichend davon sind vom Vorstand durch einfache Mehrheit bestimmte und protokollierte Personen jeweils einzeln gegenüber Kreditinstituten im Außenverhältnis vertretungsberechtigt und verfügungsberechtigt.
 
 2. Der Vorstand wird von der Mitgliederversammlung für die Dauer von zwei Jahren gewählt. Die Wiederwahl der Mitglieder des Vorstands ist möglich.
 
@@ -137,7 +139,7 @@ Organe des Vereins sind
 
     Ihr sind insbesondere die Jahresrechnung und der Jahresbericht zur Beschlussfassung über die Genehmigung und die Entlastung des Vorstands schriftlich vorzulegen.
 
-    Sie bestellt zwei Rechnungsprüfer, die weder dem Vorstand noch einem vom Vorstand berufenen Gremium angehören und auch nicht Angestellte des Vereins sein dürfen, um die Buchführung einschließlich Jahresabschluss zu prüfen und über das Ergebnis vor der Mitgliederversammlung zu berichten. Zu den Aufgaben der Rechnungsprüfer gehört nicht die Prüfung der Zweckmäßigkeit der Mittelverwendung.
+    Sie bestellt mindestens zwei Rechnungsprüfer, die weder dem Vorstand noch einem vom Vorstand berufenen Gremium angehören und auch nicht Angestellte des Vereins sein dürfen, um die Buchführung einschließlich Jahresabschluss zu prüfen und über das Ergebnis vor der Mitgliederversammlung zu berichten. Zu den Aufgaben der Rechnungsprüfer gehört nicht die Prüfung der Zweckmäßigkeit der Mittelverwendung.
 
     Im Innenverhältnis entscheidet die Mitgliederversammlung z. B. auch über
 
@@ -198,11 +200,10 @@ Organe des Vereins sind
 .
 .
 
-§ 12 Inkraftreten
+§ 12 Inkrafttreten
 -----------------
 
-Dieses Dokument ist eine inhaltlich geänderte Fassung der Satzung gemäß Beschlussfassung der Mitgliederversammlung vom 10.05.2016.
-Mit Änderung aus formalen Gründen nach § 9 Nr. 2 dieser Satzung durch den Vorstand, gemäß der Vorstandssitzung vom 26.07.2016.
+Dieses Dokument ist eine inhaltlich geänderte Fassung der Satzung gemäß Beschlussfassung der Mitgliederversammlung vom 20.06.2023.
 
-Es tritt ab 11.05.2016 in Kraft und ersetzt die Satzung vom 21.07.2011.  
+Es tritt ab 20.06.2023 in Kraft und ersetzt die Satzung vom 26.07.2016.  
 

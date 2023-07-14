@@ -6,7 +6,7 @@
 # Tune margins, so dass die Unterschriften beieinander bleiben!
 
 MARGINS=geometry:"top=1.5cm, bottom=1.5cm, left=1.7cm, right=1.7cm, a4paper"
-PANDOC_PDF=pandoc --latex-engine xelatex --standalone -f markdown_github -t latex -V mainfont=FreeSans -V $(MARGINS) -V fontsize=10pt
+PANDOC_PDF=pandoc --pdf-engine xelatex --standalone -f markdown_github -t latex -V mainfont=FreeSans -V $(MARGINS) -V fontsize=10pt
 PANDOC_HTML=pandoc --standalone -f markdown_github -t html -V mainfont=sans
 
 all: satzung Beitrags-Gebuehrenordnung.pdf Geschaeftsordnung.pdf
