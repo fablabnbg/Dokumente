@@ -20,7 +20,7 @@ Vorsitzender des Vorstands: Roland Möltner
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Mitglied des Vorstands: Jürgen Halbritter  
+Mitglied des Vorstands: Tobias Bozin 
 
 .
 .
@@ -37,7 +37,7 @@ Mitglied des Vorstands: Nicolas Metz
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Mitglied des Vorstands: Ian Hubbertz
+Mitglied des Vorstands: Tom Tchilov
 
 
 .
@@ -46,4 +46,4 @@ Mitglied des Vorstands: Ian Hubbertz
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Mitglied des Vorstands: Tobias Bozin
+Mitglied des Vorstands: Michael Prell
