@@ -9,7 +9,6 @@ Fürth, den \_\_.\_\_.\_\_\_\_
 .
 
   
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Vorsitzender des Vorstands: Roland Möltner  
@@ -30,7 +29,6 @@ Mitglied des Vorstands: Tobias Bozin
 
 Mitglied des Vorstands: Nicolas Metz
 
-
 .
 .
       
@@ -38,7 +36,6 @@ Mitglied des Vorstands: Nicolas Metz
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Mitglied des Vorstands: Tom Tchilov
-
 
 .
 .
