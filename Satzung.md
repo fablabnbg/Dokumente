@@ -30,7 +30,7 @@ Satzung des Fab Lab Region Nürnberg e.V.
     
     d) den Zugang zu Schlüssel-Technologien ermöglichen bzw. erleichtern und zum praktischen und kreativen Umgang mit Technologien anregen,
     
-    e) das Lernen durch eigene Erfahrungen, selbstmotiviertes Lernen und das Lernen von Anderen/Peers unterstützen,
+    e) das Lernen durch eigene Erfahrungen, selbst motiviertes Lernen und das Lernen von Anderen/Peers unterstützen,
     
     f) durch offenen Austausch von Erfahrung und Wissen zur nachhaltigen Entwicklung einer offenen Wissensgesellschaft beitragen und/oder 
     
@@ -101,7 +101,7 @@ Organe des Vereins sind
 
     Er vertritt den Verein gerichtlich und außergerichtlich. Besteht der Vorstand aus zwei oder drei Mitgliedern, so sind je zwei Mitglieder, bei vier oder fünf Mitgliedern sind je drei Mitglieder des Vorstands gemeinsam vertretungsberechtigt.
 
-Abweichend davon sind vom Vorstand durch einfache Mehrheit bestimmte und protokollierte Personen jeweils einzeln gegenüber Kreditinstituten im Außenverhältnis vertretungsberechtigt und verfügungsberechtigt.
+Abweichend davon ist jedes Vorstandsmitglied bis zu einer Summe von 600,00 Euro jeweils einzeln gegenüber Kreditinstituten im Außenverhältnis vertretungs- und verfügungsberechtigt.
 
 2. Der Vorstand wird von der Mitgliederversammlung für die Dauer von zwei Jahren gewählt. Die Wiederwahl der Mitglieder des Vorstands ist möglich.
 
@@ -201,7 +201,7 @@ Abweichend davon sind vom Vorstand durch einfache Mehrheit bestimmte und protoko
 .
 
 § 12 Inkrafttreten
------------------
+------------------
 
 Dieses Dokument ist eine inhaltlich geänderte Fassung der Satzung gemäß Beschlussfassung der Mitgliederversammlung vom __.__.2024.
 
