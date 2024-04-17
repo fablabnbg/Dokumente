@@ -63,7 +63,7 @@ Es tritt ab 20.06.2023 in Kraft.
     
     Sollten weniger Kandidaten eine absolute Mehrheit erreichen als Mitglieder des Vorstands gewählt werden sollen, so findet ein zweiter Wahldurchgang zwischen den Kandidaten ohne absolute Mehrheit statt. Der Kandidat aus dem ersten bzw. vorherigen Wahldurchgang mit den wenigstens Stimmen scheidet dabei aus. Im Wahldurchgang hat jede stimmberechtigte Person entsprechend der Anzahl an verbleibenden zu wählenden Mitgliedern des Vorstands Stimmen. Gewählt ist, wer eine absolute Mehrheit erreicht und eine relative Mehrheit gegenüber den anderen Kandidaten, um die Anzahl der zu wählenden Mitgliedern des Vorstands zu erreichen. 
 
-    Der Vorstandsvorsitzende wird aus den neuen Mitgliedern des Vorstands gewählt. Die Abstimmung findet per Akklamation in relativer Mehrheit statt. Namentliche Vorschläge können durch jede stimmberechtigte Person eingericht werden.
+    Der Vorstandsvorsitzende wird aus den neuen Mitgliedern des Vorstands gewählt. Die Abstimmung findet per Akklamation in relativer Mehrheit statt. Namentliche Vorschläge können durch jede stimmberechtigte Person eingereicht werden.
 
     Durch den Versammlungsleiter ist für den neugewählten Vorstand ausreichend Zeit für eine Danksagung, sowie ein Grußwort vorzusehen.
 
@@ -83,7 +83,7 @@ Es tritt ab 20.06.2023 in Kraft.
     
 7. Personen, die nach Feststellung der Beschlussfähigkeit eintreffen, sind nicht stimmberechtigt und können, falls zugelassen, nur als Gast an der Mitgliederversammlung teilnehmen. Später eintreffende stimmberechtigte Personen können aber eine vorab ordentlich übertragene Stimme ab diesem Zeitpunkt selbst wahrnehmen.
 
-8. Ausgeübte Stimmen werden bei Abstimmungen als Enthaltung gewertet, wenn die Mitgliederversammlung vorzeitig verlassen wird und keine schriftliche Stimmübertragung erfolt ist. Die Stimmkarte ist vor Verlassen des Raumes dem Versammlungsleiter zu übergeben.
+8. Ausgeübte Stimmen werden bei Abstimmungen als Enthaltung gewertet, wenn die Mitgliederversammlung vorzeitig verlassen wird und keine schriftliche Stimmübertragung erfolgt ist. Die Stimmkarte ist vor Verlassen des Raumes dem Versammlungsleiter zu übergeben.
 
 § 3 Anträge zur Änderung der Geschäftsordnung
 ---------------------------------------------
