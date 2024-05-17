@@ -62,7 +62,7 @@ Satzung des Fab Lab Region Nürnberg e.V.
 
     * Fördermitglieder
 
-3. Bei Zustimmung des Vorstandes zu einer Mitgliedschaft beginnt diese mit einer ordentlichen Mitgliedschaft auf Probe. Der früheste Beginn ist der 01. des darauf folgenden Monats. Die Probemitgliedschaft besteht für den Zeitraum von 4 Monaten. In dieser Zeit kann die Mitgliedschaft ohne Angabe von Gründen durch das Mitglied oder seitens des Vereins durch Vorstandsbeschluss mit einer Frist von 14 Tagen zum jeweiligen Monatsletzten gekündigt werden. Nach Ablauf der Probezeit geht die Probemitgliedschaft in eine Mitgliedschaft mit regulärer Kündigungsfrist über.
+3. Über den Antrag auf Aufnahme in den Verein entscheidet der Vorstand. Bei Zustimmung des Vorstandes zu einer ordentlichen Mitgliedschaft beginnt diese mit einer ordentlichen Mitgliedschaft auf Probe. Der früheste Beginn ist der Monatserste des darauf folgenden Monats. Die Probemitgliedschaft besteht für den Zeitraum von 4 Monaten. In dieser Zeit kann die Mitgliedschaft ohne Angabe von Gründen durch das Mitglied oder seitens des Vereins durch Vorstandsbeschluss mit einer Frist von 14 Tagen zum jeweiligen Monatsletzten gekündigt werden. Nach Ablauf der Probezeit geht die Probemitgliedschaft in eine Mitgliedschaft mit regulärer Kündigungsfrist über.
 
 4. Die Mitgliedschaft endet durch Austritt, Ausschluss oder Tod.
 
@@ -101,7 +101,7 @@ Organe des Vereins sind
 
     Er vertritt den Verein gerichtlich und außergerichtlich. Besteht der Vorstand aus zwei oder drei Mitgliedern, so sind je zwei Mitglieder, bei vier oder fünf Mitgliedern sind je drei Mitglieder des Vorstands gemeinsam vertretungsberechtigt.
 
-Abweichend davon ist jedes Vorstandsmitglied bis zu einer Summe von 600,00 Euro jeweils einzeln gegenüber Kreditinstituten im Außenverhältnis vertretungs- und verfügungsberechtigt.
+    Abweichend davon ist jedes Vorstandsmitglied ist bis zu einer Summe von 1.500,00 Euro jeweils einzeln gegenüber Kreditinstituten im Außenverhältnis vertretungs- und verfügungsberechtigt.
 
 2. Der Vorstand wird von der Mitgliederversammlung für die Dauer von zwei Jahren gewählt. Die Wiederwahl der Mitglieder des Vorstands ist möglich.
 
@@ -203,7 +203,6 @@ Abweichend davon ist jedes Vorstandsmitglied bis zu einer Summe von 600,00 Euro 
 § 12 Inkrafttreten
 ------------------
 
-Dieses Dokument ist eine inhaltlich geänderte Fassung der Satzung gemäß Beschlussfassung der Mitgliederversammlung vom __.__.2024.
+Dieses Dokument ist eine inhaltlich geänderte Fassung der Satzung gemäß Beschlussfassung der Mitgliederversammlung vom 14.05.2024.
 
-Es tritt ab __.__.2024 in Kraft und ersetzt die Satzung vom 26.07.2016.  
-
+Es tritt ab 14.05.2024 in Kraft und ersetzt die Satzung vom 26.07.2016.
