@@ -203,6 +203,6 @@ Organe des Vereins sind
 § 12 Inkrafttreten
 ------------------
 
-Dieses Dokument ist eine inhaltlich geänderte Fassung der Satzung gemäß Beschlussfassung der Mitgliederversammlung vom 14.05.2024.
+Die vorstehende Satzung wurde zuletzt gemäß Beschlussfassung der Mitgliederversammlung vom 14.05.2024 geändert mit Nachtrag gemäß Vorstandssitzung vom 28.07.2024.
 
-Es tritt ab 14.05.2024 in Kraft und ersetzt die Satzung vom 26.07.2016.
+Die Satzung tritt mit Eintragung in das Vereinsregister in Kraft und ersetzt die Satzung vom 26.07.2016.
