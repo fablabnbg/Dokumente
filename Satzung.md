@@ -101,7 +101,7 @@ Organe des Vereins sind
 
     Er vertritt den Verein gerichtlich und außergerichtlich. Besteht der Vorstand aus zwei oder drei Mitgliedern, so sind je zwei Mitglieder, bei vier oder fünf Mitgliedern sind je drei Mitglieder des Vorstands gemeinsam vertretungsberechtigt.
 
-    Abweichend davon ist jedes Vorstandsmitglied bis zu einer Summe von 1.500,00 Euro jeweils einzeln gegenüber Kreditinstituten vertretungs- und verfügungsberechtigt.
+    Abweichend davon ist jedes Vorstandsmitglied im Außenverhältnis gegenüber Kreditinstituten einzeln vertretungs- und verfügungsberechtigt. Im Innenverhältnis ist die Einzelvertretung- und Verfügungsberechtigung der Vorstandsmitglieder bei Kreditgeschäften auf einen Betrag von 1.500,00 Euro begrenzt. Überschreitungen dieser Grenze bedürfen eines Mehrheitsbeschlusses des Vorstands.
 
 2. Der Vorstand wird von der Mitgliederversammlung für die Dauer von zwei Jahren gewählt. Die Wiederwahl der Mitglieder des Vorstands ist möglich.
 
@@ -203,6 +203,6 @@ Organe des Vereins sind
 § 12 Inkrafttreten
 ------------------
 
-Die vorstehende Satzung wurde zuletzt gemäß Beschlussfassung der Mitgliederversammlung vom 14.05.2024 geändert mit Nachtrag gemäß Vorstandssitzung vom 28.07.2024.
+Die vorstehende Satzung wurde zuletzt am 14.05.2024 mit Nachträgen vom 28.07.2024 und 20.11.2024 geändert.
 
 Die Satzung tritt mit Eintragung in das Vereinsregister in Kraft und ersetzt die Satzung vom 26.07.2016.
