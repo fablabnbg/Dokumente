@@ -206,3 +206,5 @@ Organe des Vereins sind
 Die vorstehende Satzung wurde zuletzt am 14.05.2024 mit Nachträgen vom 28.07.2024, 20.11.2024 und 29.01.2025 geändert.
 
 Die Satzung tritt mit Eintragung in das Vereinsregister in Kraft und ersetzt die Satzung vom 26.07.2016.
+
+
