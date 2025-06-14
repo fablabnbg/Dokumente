@@ -20,7 +20,7 @@ Es tritt ab 20.06.2023 in Kraft.
     Die Versammlungsleitung führt durch die Versammlung und die entsprechende Tagesordnung. Sie ist verantwortlich für die ordnungsgemäße Durchführung der Mitgliederversammlung entsprechend der Massgabe durch die Satzung sowie die Geschäftsordnung. Darüber hinaus überwacht sie die Ausgabe der Stimmkarten oder führt diese selbst aus.
 
 4. Tagesordnungspunkte
-	
+
     a) Begrüßung Vorstand
 
     b) Feststellung der Beschlussfähigkeit
@@ -40,7 +40,7 @@ Es tritt ab 20.06.2023 in Kraft.
     i) Wahl der neuen Rechnungsprüfer per Akklamation in relativer Mehrheit
 
     j) Entlastung des Vorstands per Akklamation in absoluter Mehrheit
-     
+
     ⋮  
     ⋮ *weitere Tagesordnungspunkte der jeweiligen Mitgliederversammlung*  
     ⋮  
@@ -61,7 +61,7 @@ Es tritt ab 20.06.2023 in Kraft.
 
     Sollten mehr Kandidaten eine absolute Mehrheit erreichen als Mitglieder des Vorstands gewählt werden sollen, so findet ein zweiter Wahldurchgang statt. In diesem Wahldurchgang wird zwischen allen Kandidaten, welche eine absolute Mehrheit im ersten Wahldurchgang erreicht haben, abgestimmt. Als Mitglied des Vorstands sind die Kandidaten mit den meisten Stimmen (relative Mehrheit gegenüber den anderen Kandidaten) gewählt. Bei Stimmengleichheit findet zwischen den betreffenden Kandidaten eine Stichwahl statt.
     
-    Sollten weniger Kandidaten eine absolute Mehrheit erreichen als Mitglieder des Vorstands gewählt werden sollen, so findet ein zweiter Wahldurchgang zwischen den Kandidaten ohne absolute Mehrheit statt. Der Kandidat aus dem ersten bzw. vorherigen Wahldurchgang mit den wenigstens Stimmen scheidet dabei aus. Im Wahldurchgang hat jede stimmberechtigte Person entsprechend der Anzahl an verbleibenden zu wählenden Mitgliedern des Vorstands Stimmen. Gewählt ist, wer eine absolute Mehrheit erreicht und eine relative Mehrheit gegenüber den anderen Kandidaten, um die Anzahl der zu wählenden Mitgliedern des Vorstands zu erreichen. 
+    Sollten weniger Kandidaten eine absolute Mehrheit erreichen als Mitglieder des Vorstands gewählt werden sollen, so findet ein zweiter Wahldurchgang zwischen den Kandidaten ohne absolute Mehrheit statt. Der Kandidat aus dem ersten bzw. vorherigen Wahldurchgang mit den wenigstens Stimmen scheidet dabei aus. Im Wahldurchgang hat jede stimmberechtigte Person entsprechend der Anzahl an verbleibenden zu wählenden Mitgliedern des Vorstands Stimmen. Gewählt ist, wer eine absolute Mehrheit erreicht und eine relative Mehrheit gegenüber den anderen Kandidaten, um die Anzahl der zu wählenden Mitgliedern des Vorstands zu erreichen.
 
     Der Vorstandsvorsitzende wird aus den neuen Mitgliedern des Vorstands gewählt. Die Abstimmung findet per Akklamation in relativer Mehrheit statt. Namentliche Vorschläge können durch jede stimmberechtigte Person eingereicht werden.
 
@@ -75,12 +75,12 @@ Es tritt ab 20.06.2023 in Kraft.
 
     c) Wahlgänge sind nicht geheim und werden per Akklamation (einfaches Handzeichen) abgestimmt, sofern dies in diesem Dokument nicht anders gefordert ist oder durch eine stimmberechtigte Person beantragt wurde.
 
-      Soll auf Antrag einer stimmberechtigten Person eine Wahl geheim stattfinden, wird dieser Antrag vom Wahlleiter aufgerufen und per Akklamtion in relativer Mehrheit abgestimmt. Bei Stimmengleichheit gilt der Antrag als abgelehnt. 
+      Soll auf Antrag einer stimmberechtigten Person eine Wahl geheim stattfinden, wird dieser Antrag vom Wahlleiter aufgerufen und per Akklamaftion in relativer Mehrheit abgestimmt. Bei Stimmengleichheit gilt der Antrag als abgelehnt.
 
     d) Die Auszählung von Stimmzetteln erfolgt öffentlich durch den Wahlleiter.
 
     e) Wahlunterlagen werden unmittelbar nach der Versammlung durch den Wahlleiter unter Einhaltung geltender Datenschutzbestimmungen vernichtet, wenn in der Mitgliederversammlung kein abweichender Beschluss gefasst wurde.
-    
+
 7. Personen, die nach Feststellung der Beschlussfähigkeit eintreffen, sind nicht stimmberechtigt und können, falls zugelassen, nur als Gast an der Mitgliederversammlung teilnehmen. Später eintreffende stimmberechtigte Personen können aber eine vorab ordentlich übertragene Stimme ab diesem Zeitpunkt selbst wahrnehmen.
 
 8. Ausgeübte Stimmen werden bei Abstimmungen als Enthaltung gewertet, wenn die Mitgliederversammlung vorzeitig verlassen wird und keine schriftliche Stimmübertragung erfolgt ist. Die Stimmkarte ist vor Verlassen des Raumes dem Versammlungsleiter zu übergeben.
