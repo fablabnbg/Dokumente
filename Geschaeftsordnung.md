@@ -75,7 +75,7 @@ Es tritt ab 20.06.2023 in Kraft.
 
     c) Wahlgänge sind nicht geheim und werden per Akklamation (einfaches Handzeichen) abgestimmt, sofern dies in diesem Dokument nicht anders gefordert ist oder durch eine stimmberechtigte Person beantragt wurde.
 
-      Soll auf Antrag einer stimmberechtigten Person eine Wahl geheim stattfinden, wird dieser Antrag vom Wahlleiter aufgerufen und per Akklamaftion in relativer Mehrheit abgestimmt. Bei Stimmengleichheit gilt der Antrag als abgelehnt.
+      Soll auf Antrag einer stimmberechtigten Person eine Wahl geheim stattfinden, wird dieser Antrag vom Wahlleiter aufgerufen und per Akklamation in relativer Mehrheit abgestimmt. Bei Stimmengleichheit gilt der Antrag als abgelehnt.
 
     d) Die Auszählung von Stimmzetteln erfolgt öffentlich durch den Wahlleiter.
 
