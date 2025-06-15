@@ -29,12 +29,12 @@ Satzung des Fab Lab Region Nürnberg e.V.
     c) die praktische und kreative Intelligenz Einzelner in Ergänzung zum analytischen Fokus der schulischen bzw. universitären Ausbildung stärken und so die Entdeckung und Entwicklung des eigenen kreativen Potentials fördern,
 
     d) den Zugang zu Schlüssel-Technologien ermöglichen bzw. erleichtern und zum praktischen und kreativen Umgang mit Technologien anregen,
-
-    e) das Lernen durch eigene Erfahrungen, selbstmotiviertes Lernen und das Lernen von Anderen/Peers unterstützen,
-
-    f) durch offenen Austausch von Erfahrung und Wissen zur nachhaltigen Entwicklung einer offenen Wissensgesellschaft beitragen und/oder
-
-    g) zur regionalen, überregionalen als auch internationalen Vernetzung der Beteiligten mit einer interdisziplinären Community beitragen.
+    
+    e) das Lernen durch eigene Erfahrungen, selbst motiviertes Lernen und das Lernen von Anderen/Peers unterstützen,
+    
+    f) durch offenen Austausch von Erfahrung und Wissen zur nachhaltigen Entwicklung einer offenen Wissensgesellschaft beitragen und/oder 
+    
+    g) zur regionalen, überregionalen als auch internationalen Vernetzung der Beteiligten mit einer interdisziplinären Community beitragen. 
 
 4. Ausgangspunkt und Zentrum der Aktivitäten des Vereins ist die Europäische Metropolregion Nürnberg.
 
@@ -62,7 +62,7 @@ Satzung des Fab Lab Region Nürnberg e.V.
 
     * Fördermitglieder
 
-3. Bei Zustimmung des Vorstandes zu einer Mitgliedschaft beginnt diese mit einer ordentlichen Mitgliedschaft auf Probe. Der früheste Beginn ist der 01. des darauf folgenden Monats. Die Probemitgliedschaft besteht für den Zeitraum von 4 Monaten. In dieser Zeit kann die Mitgliedschaft ohne Angabe von Gründen durch das Mitglied oder seitens des Vereins durch Vorstandsbeschluss mit einer Frist von 14 Tagen zum jeweiligen Monatsletzten gekündigt werden. Nach Ablauf der Probezeit geht die Mitgliedschaft in eine Mitgliedschaft mit regulärer Kündigungsfrist über.
+3. Über den Antrag auf Aufnahme in den Verein entscheidet der Vorstand. Bei Zustimmung des Vorstandes zu einer ordentlichen Mitgliedschaft beginnt diese mit einer ordentlichen Mitgliedschaft auf Probe. Der früheste Beginn ist der Monatserste des darauf folgenden Monats. Die Probemitgliedschaft besteht für den Zeitraum von 4 Monaten. In dieser Zeit kann die Mitgliedschaft ohne Angabe von Gründen durch das Mitglied oder seitens des Vereins durch Vorstandsbeschluss mit einer Frist von 14 Tagen zum jeweiligen Monatsletzten gekündigt werden. Nach Ablauf der Probezeit geht die Probemitgliedschaft in eine Mitgliedschaft mit regulärer Kündigungsfrist über.
 
 4. Die Mitgliedschaft endet durch Austritt, Ausschluss oder Tod.
 
@@ -101,7 +101,7 @@ Organe des Vereins sind
 
     Er vertritt den Verein gerichtlich und außergerichtlich. Besteht der Vorstand aus zwei oder drei Mitgliedern, so sind je zwei Mitglieder, bei vier oder fünf Mitgliedern sind je drei Mitglieder des Vorstands gemeinsam vertretungsberechtigt.
 
-Abweichend davon sind vom Vorstand durch einfache Mehrheit bestimmte und protokollierte Personen jeweils einzeln gegenüber Kreditinstituten im Außenverhältnis vertretungsberechtigt und verfügungsberechtigt.
+    Abweichend davon ist jedes Vorstandsmitglied im Außenverhältnis gegenüber Kreditinstituten einzeln vertretungs- und verfügungsberechtigt. Im Innenverhältnis ist die Einzelvertretungs- und Verfügungsberechtigung eines Vorstandsmitglieds bei Kreditgeschäften auf einen Betrag von 1.500,00 Euro begrenzt. Eine Überschreitung dieses Betrags bedarf eines vorherigen Mehrheitsbeschlusses des Vorstands. Diese Beschränkung im Innenverhältnis hat keine Auswirkungen auf die Wirksamkeit von Erklärungen gegenüber Kreditinstituten im Außenverhältnis.
 
 2. Der Vorstand wird von der Mitgliederversammlung für die Dauer von zwei Jahren gewählt. Die Wiederwahl der Mitglieder des Vorstands ist möglich.
 
@@ -201,9 +201,10 @@ Abweichend davon sind vom Vorstand durch einfache Mehrheit bestimmte und protoko
 .
 
 § 12 Inkrafttreten
------------------
+------------------
 
-Dieses Dokument ist eine inhaltlich geänderte Fassung der Satzung gemäß Beschlussfassung der Mitgliederversammlung vom 20.06.2023.
+Die vorstehende Satzung wurde zuletzt am 14.05.2024 mit Nachträgen vom 28.07.2024, 20.11.2024 und 29.01.2025 geändert.
 
-Es tritt ab 20.06.2023 in Kraft und ersetzt die Satzung vom 26.07.2016.
+Die Satzung tritt mit Eintragung in das Vereinsregister in Kraft und ersetzt die Satzung vom 26.07.2016.
+
 

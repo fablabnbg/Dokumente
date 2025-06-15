@@ -60,7 +60,7 @@ Es tritt ab 20.06.2023 in Kraft.
     Um als Mitglied des Vorstands gewählt zu werden ist eine absolute Mehrheit erforderlich.
 
     Sollten mehr Kandidaten eine absolute Mehrheit erreichen als Mitglieder des Vorstands gewählt werden sollen, so findet ein zweiter Wahldurchgang statt. In diesem Wahldurchgang wird zwischen allen Kandidaten, welche eine absolute Mehrheit im ersten Wahldurchgang erreicht haben, abgestimmt. Als Mitglied des Vorstands sind die Kandidaten mit den meisten Stimmen (relative Mehrheit gegenüber den anderen Kandidaten) gewählt. Bei Stimmengleichheit findet zwischen den betreffenden Kandidaten eine Stichwahl statt.
-
+    
     Sollten weniger Kandidaten eine absolute Mehrheit erreichen als Mitglieder des Vorstands gewählt werden sollen, so findet ein zweiter Wahldurchgang zwischen den Kandidaten ohne absolute Mehrheit statt. Der Kandidat aus dem ersten bzw. vorherigen Wahldurchgang mit den wenigstens Stimmen scheidet dabei aus. Im Wahldurchgang hat jede stimmberechtigte Person entsprechend der Anzahl an verbleibenden zu wählenden Mitgliedern des Vorstands Stimmen. Gewählt ist, wer eine absolute Mehrheit erreicht und eine relative Mehrheit gegenüber den anderen Kandidaten, um die Anzahl der zu wählenden Mitgliedern des Vorstands zu erreichen.
 
     Der Vorstandsvorsitzende wird aus den neuen Mitgliedern des Vorstands gewählt. Die Abstimmung findet per Akklamation in relativer Mehrheit statt. Namentliche Vorschläge können durch jede stimmberechtigte Person eingereicht werden.
